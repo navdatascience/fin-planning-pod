@@ -9,9 +9,9 @@
       "title": "How I ACTUALLY Spend My ₹41,60,000 Salary",
       "url": "https://www.youtube.com/watch?v=BfdLa9Z_ft0",
       "source": "PerspectiveByICM channel",
-      "sheet": "V001",
       "status": "extracted",
-      "transcript_file": "transcripts/BfdLa9Z_ft0.txt"
+      "transcript_file": "transcripts/BfdLa9Z_ft0.txt",
+      "spreadsheet": "spreadsheets/V001_BfdLa9Z_ft0_How-I-ACTUALLY-Spend-My-41-60-000-Salary.xlsx"
     },
     {
       "no": 2,
@@ -19,9 +19,9 @@
       "title": "How I ACTUALLY Spend My 82 Lakh Salary in Warangal",
       "url": "https://www.youtube.com/watch?v=61OZyLSCjZA",
       "source": "PerspectiveByICM channel",
-      "sheet": "V002",
       "status": "extracted",
-      "transcript_file": "transcripts/61OZyLSCjZA.txt"
+      "transcript_file": "transcripts/61OZyLSCjZA.txt",
+      "spreadsheet": "spreadsheets/V002_61OZyLSCjZA_How-I-ACTUALLY-Spend-My-82-Lakh-Salary-in-Warangal.xlsx"
     },
     {
       "no": 3,
@@ -29,9 +29,9 @@
       "title": "How I ACTUALLY Spend My 77 Lakh Salary in Bangalore",
       "url": "https://www.youtube.com/watch?v=QGwl3nEi4LQ",
       "source": "PerspectiveByICM channel",
-      "sheet": "V003",
       "status": "extracted",
-      "transcript_file": "transcripts/QGwl3nEi4LQ.txt"
+      "transcript_file": "transcripts/QGwl3nEi4LQ.txt",
+      "spreadsheet": "spreadsheets/V003_QGwl3nEi4LQ_How-I-ACTUALLY-Spend-My-77-Lakh-Salary-in-Bangalore.xlsx"
     },
     {
       "no": 4,
@@ -39,9 +39,9 @@
       "title": "How Exactly I Built My 39 Crore Networth",
       "url": "https://www.youtube.com/watch?v=_OVQyM9c51o",
       "source": "PerspectiveByICM channel",
-      "sheet": "V004",
       "status": "extracted",
-      "transcript_file": "transcripts/_OVQyM9c51o.txt"
+      "transcript_file": "transcripts/_OVQyM9c51o.txt",
+      "spreadsheet": "spreadsheets/V004__OVQyM9c51o_How-Exactly-I-Built-My-39-Crore-Networth.xlsx"
     },
     {
       "no": 5,
@@ -49,9 +49,9 @@
       "title": "How I ACTUALLY Spend My 93 Lakh Salary",
       "url": "https://www.youtube.com/watch?v=XQYjyw7RED0",
       "source": "PerspectiveByICM channel",
-      "sheet": "V005",
       "status": "extracted",
-      "transcript_file": "transcripts/XQYjyw7RED0.txt"
+      "transcript_file": "transcripts/XQYjyw7RED0.txt",
+      "spreadsheet": "spreadsheets/V005_XQYjyw7RED0_How-I-ACTUALLY-Spend-My-93-Lakh-Salary.xlsx"
     },
     {
       "no": 6,
@@ -59,9 +59,9 @@
       "title": "How I ACTUALLY Spend My 1.95 Crore Income",
       "url": "https://www.youtube.com/watch?v=x2Z6SDe2luo",
       "source": "PerspectiveByICM channel",
-      "sheet": "V006",
       "status": "extracted",
-      "transcript_file": "transcripts/x2Z6SDe2luo.txt"
+      "transcript_file": "transcripts/x2Z6SDe2luo.txt",
+      "spreadsheet": "spreadsheets/V006_x2Z6SDe2luo_How-I-ACTUALLY-Spend-My-1-95-Crore-Income.xlsx"
     },
     {
       "no": 7,
@@ -69,9 +69,9 @@
       "title": "How EXACTLY I Built My 62 Crore Networth",
       "url": "https://www.youtube.com/watch?v=C2uMIOnSrvQ",
       "source": "PerspectiveByICM channel",
-      "sheet": "V007",
       "status": "extracted",
-      "transcript_file": "transcripts/C2uMIOnSrvQ.txt"
+      "transcript_file": "transcripts/C2uMIOnSrvQ.txt",
+      "spreadsheet": "spreadsheets/V007_C2uMIOnSrvQ_How-EXACTLY-I-Built-My-62-Crore-Networth.xlsx"
     },
     {
       "no": 8,
@@ -79,9 +79,9 @@
       "title": "How I ACTUALLY Spend My 38 Lakh Salary in Maharashtra",
       "url": "https://www.youtube.com/watch?v=tWWyU_7eAQQ",
       "source": "PerspectiveByICM channel",
-      "sheet": "V008",
       "status": "extracted",
-      "transcript_file": "transcripts/tWWyU_7eAQQ.txt"
+      "transcript_file": "transcripts/tWWyU_7eAQQ.txt",
+      "spreadsheet": "spreadsheets/V008_tWWyU_7eAQQ_How-I-ACTUALLY-Spend-My-38-Lakh-Salary-in-Maharashtra.xlsx"
     },
     {
       "no": 9,
@@ -89,9 +89,9 @@
       "title": "How EXACTLY I Built My 151 Crore Networth",
       "url": "https://www.youtube.com/watch?v=O-nIgb0ZLUI",
       "source": "PerspectiveByICM channel",
-      "sheet": "V009",
       "status": "extracted",
-      "transcript_file": "transcripts/O-nIgb0ZLUI.txt"
+      "transcript_file": "transcripts/O-nIgb0ZLUI.txt",
+      "spreadsheet": "spreadsheets/V009_O-nIgb0ZLUI_How-EXACTLY-I-Built-My-151-Crore-Networth.xlsx"
     },
     {
       "no": 10,
@@ -99,9 +99,9 @@
       "title": "How I ACTUALLY Spend My 79 Lakh Salary in Hyderabad",
       "url": "https://www.youtube.com/watch?v=ltKTa2lleq0",
       "source": "PerspectiveByICM channel",
-      "sheet": "V010",
       "status": "extracted",
-      "transcript_file": "transcripts/ltKTa2lleq0.txt"
+      "transcript_file": "transcripts/ltKTa2lleq0.txt",
+      "spreadsheet": "spreadsheets/V010_ltKTa2lleq0_How-I-ACTUALLY-Spend-My-79-Lakh-Salary-in-Hyderabad.xlsx"
     },
     {
       "no": 11,
@@ -109,9 +109,9 @@
       "title": "How I ACTUALLY Spend My 1.27 Crore Income in Pune",
       "url": "https://www.youtube.com/watch?v=2uBP6efR-DM",
       "source": "PerspectiveByICM channel",
-      "sheet": "V011",
       "status": "extracted",
-      "transcript_file": "transcripts/2uBP6efR-DM.txt"
+      "transcript_file": "transcripts/2uBP6efR-DM.txt",
+      "spreadsheet": "spreadsheets/V011_2uBP6efR-DM_How-I-ACTUALLY-Spend-My-1-27-Crore-Income-in-Pune.xlsx"
     },
     {
       "no": 12,
@@ -119,9 +119,9 @@
       "title": "Real Crorepati Breaks Down How He Reached ₹1Cr",
       "url": "https://www.youtube.com/watch?v=4EMhDAMt5ec",
       "source": "PerspectiveByICM channel",
-      "sheet": "V012",
       "status": "extracted",
-      "transcript_file": "transcripts/4EMhDAMt5ec.txt"
+      "transcript_file": "transcripts/4EMhDAMt5ec.txt",
+      "spreadsheet": "spreadsheets/V012_4EMhDAMt5ec_Real-Crorepati-Breaks-Down-How-He-Reached-1Cr.xlsx"
     },
     {
       "no": 13,
@@ -129,9 +129,9 @@
       "title": "How I ACTUALLY Spend My 53 Lakh Salary in UP",
       "url": "https://www.youtube.com/watch?v=QVgOKUG175s",
       "source": "PerspectiveByICM channel",
-      "sheet": "V013",
       "status": "extracted",
-      "transcript_file": "transcripts/QVgOKUG175s.txt"
+      "transcript_file": "transcripts/QVgOKUG175s.txt",
+      "spreadsheet": "spreadsheets/V013_QVgOKUG175s_How-I-ACTUALLY-Spend-My-53-Lakh-Salary-in-UP.xlsx"
     },
     {
       "no": 14,
@@ -139,9 +139,9 @@
       "title": "How I ACTUALLY Spend My 58 Lakh Salary in a Tier 2 City",
       "url": "https://www.youtube.com/watch?v=iLx3jLCsmek",
       "source": "PerspectiveByICM channel",
-      "sheet": "V014",
       "status": "extracted",
-      "transcript_file": "transcripts/iLx3jLCsmek.txt"
+      "transcript_file": "transcripts/iLx3jLCsmek.txt",
+      "spreadsheet": "spreadsheets/V014_iLx3jLCsmek_How-I-ACTUALLY-Spend-My-58-Lakh-Salary-in-a-Tier-2-City.xlsx"
     },
     {
       "no": 15,
@@ -149,9 +149,9 @@
       "title": "How I ACTUALLY Spend My 80 Lakh Salary in Bangalore as a CA",
       "url": "https://www.youtube.com/watch?v=jNf8kQGj9K0",
       "source": "PerspectiveByICM channel",
-      "sheet": "V015",
       "status": "extracted",
-      "transcript_file": "transcripts/jNf8kQGj9K0.txt"
+      "transcript_file": "transcripts/jNf8kQGj9K0.txt",
+      "spreadsheet": "spreadsheets/V015_jNf8kQGj9K0_How-I-ACTUALLY-Spend-My-80-Lakh-Salary-in-Bangalore-as-a-CA.xlsx"
     },
     {
       "no": 16,
@@ -159,9 +159,9 @@
       "title": "How I ACTUALLY Spend My 54 Lakh Salary in Gurugram (Gurgaon)",
       "url": "https://www.youtube.com/watch?v=lLQAbrQZNlM",
       "source": "PerspectiveByICM channel",
-      "sheet": "V016",
       "status": "extracted",
-      "transcript_file": "transcripts/lLQAbrQZNlM.txt"
+      "transcript_file": "transcripts/lLQAbrQZNlM.txt",
+      "spreadsheet": "spreadsheets/V016_lLQAbrQZNlM_How-I-ACTUALLY-Spend-My-54-Lakh-Salary-in-Gurugram-Gurgaon.xlsx"
     },
     {
       "no": 17,
@@ -169,9 +169,9 @@
       "title": "How I ACTUALLY Spend My 87 Lakh Salary in Tier 2 City",
       "url": "https://www.youtube.com/watch?v=gfxFvwFNIXQ",
       "source": "PerspectiveByICM channel",
-      "sheet": "V017",
       "status": "extracted",
-      "transcript_file": "transcripts/gfxFvwFNIXQ.txt"
+      "transcript_file": "transcripts/gfxFvwFNIXQ.txt",
+      "spreadsheet": "spreadsheets/V017_gfxFvwFNIXQ_How-I-ACTUALLY-Spend-My-87-Lakh-Salary-in-Tier-2-City.xlsx"
     },
     {
       "no": 18,
@@ -179,9 +179,9 @@
       "title": "How I ACTUALLY Spend My 92 Lakh in Bangalore",
       "url": "https://www.youtube.com/watch?v=C1YruhqRspo",
       "source": "PerspectiveByICM channel",
-      "sheet": "V018",
       "status": "extracted",
-      "transcript_file": "transcripts/C1YruhqRspo.txt"
+      "transcript_file": "transcripts/C1YruhqRspo.txt",
+      "spreadsheet": "spreadsheets/V018_C1YruhqRspo_How-I-ACTUALLY-Spend-My-92-Lakh-in-Bangalore.xlsx"
     },
     {
       "no": 19,
@@ -189,9 +189,9 @@
       "title": "How I ACTUALLY Spend My 66 LPA Salary in Bangalore",
       "url": "https://www.youtube.com/watch?v=rhVVVJGF21w",
       "source": "PerspectiveByICM channel",
-      "sheet": "V019",
       "status": "extracted",
-      "transcript_file": "transcripts/rhVVVJGF21w.txt"
+      "transcript_file": "transcripts/rhVVVJGF21w.txt",
+      "spreadsheet": "spreadsheets/V019_rhVVVJGF21w_How-I-ACTUALLY-Spend-My-66-LPA-Salary-in-Bangalore.xlsx"
     },
     {
       "no": 20,
@@ -199,9 +199,9 @@
       "title": "How I ACTUALLY Spend My 1.05 Crore Salary in Bangalore",
       "url": "https://www.youtube.com/watch?v=xtCGdheYWvk",
       "source": "PerspectiveByICM channel",
-      "sheet": "V020",
       "status": "extracted",
-      "transcript_file": "transcripts/xtCGdheYWvk.txt"
+      "transcript_file": "transcripts/xtCGdheYWvk.txt",
+      "spreadsheet": "spreadsheets/V020_xtCGdheYWvk_How-I-ACTUALLY-Spend-My-1-05-Crore-Salary-in-Bangalore.xlsx"
     },
     {
       "no": 21,
@@ -209,9 +209,9 @@
       "title": "How I ACTUALLY Spend My 51 LPA Salary in Bangalore",
       "url": "https://www.youtube.com/watch?v=01vijetX2oU",
       "source": "PerspectiveByICM channel",
-      "sheet": "V021",
       "status": "extracted",
-      "transcript_file": "transcripts/01vijetX2oU.txt"
+      "transcript_file": "transcripts/01vijetX2oU.txt",
+      "spreadsheet": "spreadsheets/V021_01vijetX2oU_How-I-ACTUALLY-Spend-My-51-LPA-Salary-in-Bangalore.xlsx"
     },
     {
       "no": 22,
@@ -219,9 +219,9 @@
       "title": "He Returned to India With His American Wife After 35 Years to Start Up Again",
       "url": "https://www.youtube.com/watch?v=mWq9gHCllRc",
       "source": "NRI Wealth Stories",
-      "sheet": "V022",
       "status": "extracted",
-      "transcript_file": "transcripts/mWq9gHCllRc.txt"
+      "transcript_file": "transcripts/mWq9gHCllRc.txt",
+      "spreadsheet": "spreadsheets/V022_mWq9gHCllRc_He-Returned-to-India-With-His-American-Wife-After-35-Years-to-Start-Up.xlsx"
     },
     {
       "no": 23,
@@ -229,9 +229,9 @@
       "title": "Quit America On An H1B. Financially Free In Vietnam At The Age Of 33",
       "url": "https://www.youtube.com/watch?v=20Y8cWXqMQg",
       "source": "NRI Wealth Stories",
-      "sheet": "V023",
       "status": "extracted",
-      "transcript_file": "transcripts/20Y8cWXqMQg.txt"
+      "transcript_file": "transcripts/20Y8cWXqMQg.txt",
+      "spreadsheet": "spreadsheets/V023_20Y8cWXqMQg_Quit-America-On-An-H1B-Financially-Free-In-Vietnam-At-The-Age-Of-33.xlsx"
     },
     {
       "no": 24,
@@ -239,9 +239,9 @@
       "title": "Inside The US Styled Villa of an NRI Couple Who Just Returned to India",
       "url": "https://www.youtube.com/watch?v=rqnUd698Xr8",
       "source": "NRI Wealth Stories",
-      "sheet": "V024",
       "status": "extracted",
-      "transcript_file": "transcripts/rqnUd698Xr8.txt"
+      "transcript_file": "transcripts/rqnUd698Xr8.txt",
+      "spreadsheet": "spreadsheets/V024_rqnUd698Xr8_Inside-The-US-Styled-Villa-of-an-NRI-Couple-Who-Just-Returned-to-India.xlsx"
     },
     {
       "no": 25,
@@ -249,9 +249,9 @@
       "title": "Everyone Said I'd Regret It. But I Moved Back to India Anyway.",
       "url": "https://www.youtube.com/watch?v=qmS7WpOmbvM",
       "source": "NRI Wealth Stories",
-      "sheet": "V025",
       "status": "extracted",
-      "transcript_file": "transcripts/qmS7WpOmbvM.txt"
+      "transcript_file": "transcripts/qmS7WpOmbvM.txt",
+      "spreadsheet": "spreadsheets/V025_qmS7WpOmbvM_Everyone-Said-I-d-Regret-It-But-I-Moved-Back-to-India-Anyway.xlsx"
     },
     {
       "no": 26,
@@ -259,9 +259,9 @@
       "title": "Canada NRI Couple’s Return to India Story Goes Viral on Instagram!",
       "url": "https://www.youtube.com/watch?v=bnBTVReL04I",
       "source": "NRI Wealth Stories",
-      "sheet": "V026",
       "status": "extracted",
-      "transcript_file": "transcripts/bnBTVReL04I.txt"
+      "transcript_file": "transcripts/bnBTVReL04I.txt",
+      "spreadsheet": "spreadsheets/V026_bnBTVReL04I_Canada-NRI-Couple-s-Return-to-India-Story-Goes-Viral-on-Instagram.xlsx"
     },
     {
       "no": 27,
@@ -269,9 +269,9 @@
       "title": "10 Years Later, NRI Returns to India With His Daughter To Unite With His Family",
       "url": "https://www.youtube.com/watch?v=16xke7gw3A8",
       "source": "NRI Wealth Stories",
-      "sheet": "V027",
       "status": "extracted",
-      "transcript_file": "transcripts/16xke7gw3A8.txt"
+      "transcript_file": "transcripts/16xke7gw3A8.txt",
+      "spreadsheet": "spreadsheets/V027_16xke7gw3A8_10-Years-Later-NRI-Returns-to-India-With-His-Daughter-To-Unite-With-Hi.xlsx"
     },
     {
       "no": 28,
@@ -279,9 +279,9 @@
       "title": "11 Years in UAE. Now Returned to India to Start Over.",
       "url": "https://www.youtube.com/watch?v=ioj8R148TWU",
       "source": "NRI Wealth Stories",
-      "sheet": "V028",
       "status": "extracted",
-      "transcript_file": "transcripts/ioj8R148TWU.txt"
+      "transcript_file": "transcripts/ioj8R148TWU.txt",
+      "spreadsheet": "spreadsheets/V028_ioj8R148TWU_11-Years-in-UAE-Now-Returned-to-India-to-Start-Over.xlsx"
     },
     {
       "no": 29,
@@ -289,9 +289,9 @@
       "title": "Got Laid Off in the US. 5 Years Later, They Were Financially FREE",
       "url": "https://www.youtube.com/watch?v=TRceC45Vkfg",
       "source": "NRI Wealth Stories",
-      "sheet": "V029",
       "status": "extracted",
-      "transcript_file": "transcripts/TRceC45Vkfg.txt"
+      "transcript_file": "transcripts/TRceC45Vkfg.txt",
+      "spreadsheet": "spreadsheets/V029_TRceC45Vkfg_Got-Laid-Off-in-the-US-5-Years-Later-They-Were-Financially-FREE.xlsx"
     },
     {
       "no": 30,
@@ -299,9 +299,9 @@
       "title": "Secrets Behind ₹20 CR Worth Portfolio of a UAE Based NRI!",
       "url": "https://www.youtube.com/watch?v=Jhwc4WOhxV0",
       "source": "NRI Wealth Stories",
-      "sheet": "V030",
       "status": "extracted",
-      "transcript_file": "transcripts/Jhwc4WOhxV0.txt"
+      "transcript_file": "transcripts/Jhwc4WOhxV0.txt",
+      "spreadsheet": "spreadsheets/V030_Jhwc4WOhxV0_Secrets-Behind-20-CR-Worth-Portfolio-of-a-UAE-Based-NRI.xlsx"
     },
     {
       "no": 31,
@@ -309,9 +309,9 @@
       "title": "After seeing NRI portfolios for a decade…Here’s what they miss",
       "url": "https://www.youtube.com/watch?v=DuYlCULO9vU",
       "source": "NRI Wealth Stories",
-      "sheet": "V031",
       "status": "extracted",
-      "transcript_file": "transcripts/DuYlCULO9vU.txt"
+      "transcript_file": "transcripts/DuYlCULO9vU.txt",
+      "spreadsheet": "spreadsheets/V031_DuYlCULO9vU_After-seeing-NRI-portfolios-for-a-decade-Here-s-what-they-miss.xlsx"
     },
     {
       "no": 32,
@@ -319,9 +319,9 @@
       "title": "This NRI Left Dubai to Retire in a Tier 2 City.",
       "url": "https://www.youtube.com/watch?v=3-bKOXTDl9c",
       "source": "NRI Wealth Stories",
-      "sheet": "V032",
       "status": "extracted",
-      "transcript_file": "transcripts/3-bKOXTDl9c.txt"
+      "transcript_file": "transcripts/3-bKOXTDl9c.txt",
+      "spreadsheet": "spreadsheets/V032_3-bKOXTDl9c_This-NRI-Left-Dubai-to-Retire-in-a-Tier-2-City.xlsx"
     },
     {
       "no": 33,
@@ -329,9 +329,9 @@
       "title": "This NRI Couple Skipped India for Thailand to Retire",
       "url": "https://www.youtube.com/watch?v=h0D2h6FBgGY",
       "source": "NRI Wealth Stories",
-      "sheet": "V033",
       "status": "extracted",
-      "transcript_file": "transcripts/h0D2h6FBgGY.txt"
+      "transcript_file": "transcripts/h0D2h6FBgGY.txt",
+      "spreadsheet": "spreadsheets/V033_h0D2h6FBgGY_This-NRI-Couple-Skipped-India-for-Thailand-to-Retire.xlsx"
     },
     {
       "no": 34,
@@ -339,9 +339,9 @@
       "title": "NRI Quits the Rat Race With a ₹10 Cr Villa & 25 Years of Savings",
       "url": "https://www.youtube.com/watch?v=B0MCiZpy2qQ",
       "source": "NRI Wealth Stories",
-      "sheet": "V034",
       "status": "extracted",
-      "transcript_file": "transcripts/B0MCiZpy2qQ.txt"
+      "transcript_file": "transcripts/B0MCiZpy2qQ.txt",
+      "spreadsheet": "spreadsheets/V034_B0MCiZpy2qQ_NRI-Quits-the-Rat-Race-With-a-10-Cr-Villa-25-Years-of-Savings.xlsx"
     },
     {
       "no": 35,
@@ -349,9 +349,9 @@
       "title": "UAE NRI regrets investing 5 CRORES in Indian real estate | Belong NRI",
       "url": "https://www.youtube.com/watch?v=9W4MhKuYBtM",
       "source": "NRI Wealth Stories",
-      "sheet": "V035",
       "status": "extracted",
-      "transcript_file": "transcripts/9W4MhKuYBtM.txt"
+      "transcript_file": "transcripts/9W4MhKuYBtM.txt",
+      "spreadsheet": "spreadsheets/V035_9W4MhKuYBtM_UAE-NRI-regrets-investing-5-CRORES-in-Indian-real-estate-Belong-NRI.xlsx"
     },
     {
       "no": 36,
@@ -359,9 +359,9 @@
       "title": "Lived Abroad for 19 Years… Now Financially Free in India (The Reality)",
       "url": "https://www.youtube.com/watch?v=V_s_bUAUsd0",
       "source": "NRI Wealth Stories",
-      "sheet": "V036",
       "status": "extracted",
-      "transcript_file": "transcripts/V_s_bUAUsd0.txt"
+      "transcript_file": "transcripts/V_s_bUAUsd0.txt",
+      "spreadsheet": "spreadsheets/V036_V_s_bUAUsd0_Lived-Abroad-for-19-Years-Now-Financially-Free-in-India-The-Reality.xlsx"
     },
     {
       "no": 37,
@@ -369,9 +369,9 @@
       "title": "How Much Money Do You Really Need to Stop Working?",
       "url": "https://www.youtube.com/watch?v=VelPgKFuYCA",
       "source": "Life Beyond Freedom",
-      "sheet": "V037",
       "status": "extracted",
-      "transcript_file": "transcripts/VelPgKFuYCA.txt"
+      "transcript_file": "transcripts/VelPgKFuYCA.txt",
+      "spreadsheet": "spreadsheets/V037_VelPgKFuYCA_How-Much-Money-Do-You-Really-Need-to-Stop-Working.xlsx"
     },
     {
       "no": 38,
@@ -379,9 +379,9 @@
       "title": "At 60 This Couple Moved to Mountains!",
       "url": "https://www.youtube.com/watch?v=TfVpFb_TCXA",
       "source": "Life Beyond Freedom",
-      "sheet": "V038",
       "status": "extracted",
-      "transcript_file": "transcripts/TfVpFb_TCXA.txt"
+      "transcript_file": "transcripts/TfVpFb_TCXA.txt",
+      "spreadsheet": "spreadsheets/V038_TfVpFb_TCXA_At-60-This-Couple-Moved-to-Mountains.xlsx"
     },
     {
       "no": 39,
@@ -389,9 +389,9 @@
       "title": "Our Mountain Life. How We Live In Himachal!",
       "url": "https://www.youtube.com/watch?v=ITdQ9eDY50c",
       "source": "Life Beyond Freedom",
-      "sheet": "V039",
       "status": "extracted",
-      "transcript_file": "transcripts/ITdQ9eDY50c.txt"
+      "transcript_file": "transcripts/ITdQ9eDY50c.txt",
+      "spreadsheet": "spreadsheets/V039_ITdQ9eDY50c_Our-Mountain-Life-How-We-Live-In-Himachal.xlsx"
     },
     {
       "no": 40,
@@ -399,9 +399,9 @@
       "title": "How I Created My Monthly Retirement Income?",
       "url": "https://www.youtube.com/watch?v=eOfQiAe4w3A",
       "source": "Life Beyond Freedom",
-      "sheet": "V040",
       "status": "extracted",
-      "transcript_file": "transcripts/eOfQiAe4w3A.txt"
+      "transcript_file": "transcripts/eOfQiAe4w3A.txt",
+      "spreadsheet": "spreadsheets/V040_eOfQiAe4w3A_How-I-Created-My-Monthly-Retirement-Income.xlsx"
     },
     {
       "no": 41,
@@ -409,9 +409,9 @@
       "title": "Quitting Corporate Was The Best Decision Of My Life",
       "url": "https://www.youtube.com/watch?v=5eUSFLnX35Y",
       "source": "Life Beyond Freedom",
-      "sheet": "V041",
       "status": "extracted",
-      "transcript_file": "transcripts/5eUSFLnX35Y.txt"
+      "transcript_file": "transcripts/5eUSFLnX35Y.txt",
+      "spreadsheet": "spreadsheets/V041_5eUSFLnX35Y_Quitting-Corporate-Was-The-Best-Decision-Of-My-Life.xlsx"
     },
     {
       "no": 42,
@@ -419,9 +419,9 @@
       "title": "He Gave Up ₹1 Cr to Fight His Village’s Crisis",
       "url": "https://www.youtube.com/watch?v=XImR4cfW7bw",
       "source": "Life Beyond Freedom",
-      "sheet": "V042",
       "status": "extracted",
-      "transcript_file": "transcripts/XImR4cfW7bw.txt"
+      "transcript_file": "transcripts/XImR4cfW7bw.txt",
+      "spreadsheet": "spreadsheets/V042_XImR4cfW7bw_He-Gave-Up-1-Cr-to-Fight-His-Village-s-Crisis.xlsx"
     },
     {
       "no": 43,
@@ -429,9 +429,9 @@
       "title": "She Chose Freedom Over Salary, Rat Race, Pollution, Traffic",
       "url": "https://www.youtube.com/watch?v=id0RKN-gxko",
       "source": "Life Beyond Freedom",
-      "sheet": "V043",
       "status": "extracted",
-      "transcript_file": "transcripts/id0RKN-gxko.txt"
+      "transcript_file": "transcripts/id0RKN-gxko.txt",
+      "spreadsheet": "spreadsheets/V043_id0RKN-gxko_She-Chose-Freedom-Over-Salary-Rat-Race-Pollution-Traffic.xlsx"
     },
     {
       "no": 44,
@@ -439,9 +439,9 @@
       "title": "You Don’t Need ₹10 Cr… Just ₹1.5 Cr is Enough",
       "url": "https://www.youtube.com/watch?v=Yxk2Z_Vx0Qw",
       "source": "Life Beyond Freedom",
-      "sheet": "V044",
       "status": "extracted",
-      "transcript_file": "transcripts/Yxk2Z_Vx0Qw.txt"
+      "transcript_file": "transcripts/Yxk2Z_Vx0Qw.txt",
+      "spreadsheet": "spreadsheets/V044_Yxk2Z_Vx0Qw_You-Don-t-Need-10-Cr-Just-1-5-Cr-is-Enough.xlsx"
     },
     {
       "no": 45,
@@ -449,9 +449,9 @@
       "title": "Left His High Paying Job ,City life And Came Back To Hometown For Peace.",
       "url": "https://www.youtube.com/watch?v=aYZP8YaEqQY",
       "source": "Life Beyond Freedom",
-      "sheet": "V045",
       "status": "extracted",
-      "transcript_file": "transcripts/aYZP8YaEqQY.txt"
+      "transcript_file": "transcripts/aYZP8YaEqQY.txt",
+      "spreadsheet": "spreadsheets/V045_aYZP8YaEqQY_Left-His-High-Paying-Job-City-life-And-Came-Back-To-Hometown-For-Peace.xlsx"
     },
     {
       "no": 46,
@@ -459,9 +459,9 @@
       "title": "Quit His High Paying Job For Freedom With Just 45k Passive Income.",
       "url": "https://www.youtube.com/watch?v=IVQZqTZQ5ZI",
       "source": "Life Beyond Freedom",
-      "sheet": "V046",
       "status": "extracted",
-      "transcript_file": "transcripts/IVQZqTZQ5ZI.txt"
+      "transcript_file": "transcripts/IVQZqTZQ5ZI.txt",
+      "spreadsheet": "spreadsheets/V046_IVQZqTZQ5ZI_Quit-His-High-Paying-Job-For-Freedom-With-Just-45k-Passive-Income.xlsx"
     },
     {
       "no": 47,
@@ -469,9 +469,9 @@
       "title": "We Quit Mumbai at 50 For A Simpler Life",
       "url": "https://www.youtube.com/watch?v=d9lvCzQc8r8",
       "source": "Life Beyond Freedom",
-      "sheet": "V047",
       "status": "extracted",
-      "transcript_file": "transcripts/d9lvCzQc8r8.txt"
+      "transcript_file": "transcripts/d9lvCzQc8r8.txt",
+      "spreadsheet": "spreadsheets/V047_d9lvCzQc8r8_We-Quit-Mumbai-at-50-For-A-Simpler-Life.xlsx"
     },
     {
       "no": 48,
@@ -479,9 +479,9 @@
       "title": "How This Couple Turned a Job Layoff into a Crore a Year through Farming",
       "url": "https://www.youtube.com/watch?v=yu5HOQXrtSw",
       "source": "Life Beyond Freedom",
-      "sheet": "V048",
       "status": "extracted",
-      "transcript_file": "transcripts/yu5HOQXrtSw.txt"
+      "transcript_file": "transcripts/yu5HOQXrtSw.txt",
+      "spreadsheet": "spreadsheets/V048_yu5HOQXrtSw_How-This-Couple-Turned-a-Job-Layoff-into-a-Crore-a-Year-through-Farmin.xlsx"
     },
     {
       "no": 49,
@@ -489,9 +489,9 @@
       "title": "Why this couple retired in Mountains?",
       "url": "https://www.youtube.com/watch?v=ndB9pWt3agk",
       "source": "Life Beyond Freedom",
-      "sheet": "V049",
       "status": "extracted",
-      "transcript_file": "transcripts/ndB9pWt3agk.txt"
+      "transcript_file": "transcripts/ndB9pWt3agk.txt",
+      "spreadsheet": "spreadsheets/V049_ndB9pWt3agk_Why-this-couple-retired-in-Mountains.xlsx"
     },
     {
       "no": 50,
@@ -499,9 +499,9 @@
       "title": "How We Balanced Work, Family & a Farm, Without Retiring!",
       "url": "https://www.youtube.com/watch?v=yaT_ll9R1hM",
       "source": "Life Beyond Freedom",
-      "sheet": "V050",
       "status": "extracted",
-      "transcript_file": "transcripts/yaT_ll9R1hM.txt"
+      "transcript_file": "transcripts/yaT_ll9R1hM.txt",
+      "spreadsheet": "spreadsheets/V050_yaT_ll9R1hM_How-We-Balanced-Work-Family-a-Farm-Without-Retiring.xlsx"
     },
     {
       "no": 51,
@@ -509,9 +509,9 @@
       "title": "From Corporate Hustle to Financial Freedom on a Farm | LIFE BEYOND FREEDOM",
       "url": "https://www.youtube.com/watch?v=6DucxPSgPb8",
       "source": "Life Beyond Freedom",
-      "sheet": "V051",
       "status": "extracted",
-      "transcript_file": "transcripts/6DucxPSgPb8.txt"
+      "transcript_file": "transcripts/6DucxPSgPb8.txt",
+      "spreadsheet": "spreadsheets/V051_6DucxPSgPb8_From-Corporate-Hustle-to-Financial-Freedom-on-a-Farm-LIFE-BEYOND-FREED.xlsx"
     },
     {
       "no": 52,
@@ -519,9 +519,9 @@
       "title": "This guy became a Millionaire through Sports!",
       "url": "https://www.youtube.com/watch?v=IM_qVg4pmT8",
       "source": "Life Beyond Freedom",
-      "sheet": "V052",
       "status": "extracted",
-      "transcript_file": "transcripts/IM_qVg4pmT8.txt"
+      "transcript_file": "transcripts/IM_qVg4pmT8.txt",
+      "spreadsheet": "spreadsheets/V052_IM_qVg4pmT8_This-guy-became-a-Millionaire-through-Sports.xlsx"
     },
     {
       "no": 53,
@@ -529,9 +529,9 @@
       "title": "How Did He Retire With ₹1.3 Crores? | Life Beyond Freedom",
       "url": "https://www.youtube.com/watch?v=2IAbw7_wTu4",
       "source": "Life Beyond Freedom",
-      "sheet": "V053",
       "status": "extracted",
-      "transcript_file": "transcripts/2IAbw7_wTu4.txt"
+      "transcript_file": "transcripts/2IAbw7_wTu4.txt",
+      "spreadsheet": "spreadsheets/V053_2IAbw7_wTu4_How-Did-He-Retire-With-1-3-Crores-Life-Beyond-Freedom.xlsx"
     },
     {
       "no": 54,
@@ -539,9 +539,9 @@
       "title": "She Left Mumbai to Start Her Own Farm? | Life Beyond Freedom",
       "url": "https://www.youtube.com/watch?v=LdbHvjxA1fc",
       "source": "Life Beyond Freedom",
-      "sheet": "V054",
       "status": "extracted",
-      "transcript_file": "transcripts/LdbHvjxA1fc.txt"
+      "transcript_file": "transcripts/LdbHvjxA1fc.txt",
+      "spreadsheet": "spreadsheets/V054_LdbHvjxA1fc_She-Left-Mumbai-to-Start-Her-Own-Farm-Life-Beyond-Freedom.xlsx"
     },
     {
       "no": 55,
@@ -549,9 +549,9 @@
       "title": "Side Hustle Build With Full-Time Job",
       "url": "https://www.youtube.com/watch?v=kmy1CshRgBs",
       "source": "Side Quest",
-      "sheet": "V055",
       "status": "extracted",
-      "transcript_file": "transcripts/kmy1CshRgBs.txt"
+      "transcript_file": "transcripts/kmy1CshRgBs.txt",
+      "spreadsheet": "spreadsheets/V055_kmy1CshRgBs_Side-Hustle-Build-With-Full-Time-Job.xlsx"
     },
     {
       "no": 56,
@@ -559,9 +559,9 @@
       "title": "I Built a Side Hustle With Just ₹2 Lakh | Side Quest Ep: 5",
       "url": "https://www.youtube.com/watch?v=vM25-a-vOPY",
       "source": "Side Quest",
-      "sheet": "V056",
       "status": "extracted",
-      "transcript_file": "transcripts/vM25-a-vOPY.txt"
+      "transcript_file": "transcripts/vM25-a-vOPY.txt",
+      "spreadsheet": "spreadsheets/V056_vM25-a-vOPY_I-Built-a-Side-Hustle-With-Just-2-Lakh-Side-Quest-Ep-5.xlsx"
     },
     {
       "no": 57,
@@ -569,9 +569,9 @@
       "title": "I Built A Side Hustle With Just ₹50k | Side Quest Ep: 4",
       "url": "https://www.youtube.com/watch?v=3AwBF9LPG_g",
       "source": "Side Quest",
-      "sheet": "V057",
       "status": "extracted",
-      "transcript_file": "transcripts/3AwBF9LPG_g.txt"
+      "transcript_file": "transcripts/3AwBF9LPG_g.txt",
+      "spreadsheet": "spreadsheets/V057_3AwBF9LPG_g_I-Built-A-Side-Hustle-With-Just-50k-Side-Quest-Ep-4.xlsx"
     },
     {
       "no": 58,
@@ -579,9 +579,9 @@
       "title": "Started with just 25000/- | Side Quest Ep: 3",
       "url": "https://www.youtube.com/watch?v=84B0V791JBU",
       "source": "Side Quest",
-      "sheet": "V058",
       "status": "extracted",
-      "transcript_file": "transcripts/84B0V791JBU.txt"
+      "transcript_file": "transcripts/84B0V791JBU.txt",
+      "spreadsheet": "spreadsheets/V058_84B0V791JBU_Started-with-just-25000-Side-Quest-Ep-3.xlsx"
     },
     {
       "no": 59,
@@ -589,9 +589,9 @@
       "title": "With Just 12 Lakh How They Started Their Side Quest Ep: 2",
       "url": "https://www.youtube.com/watch?v=GdwKR4Lel5Y",
       "source": "Side Quest",
-      "sheet": "V059",
       "status": "extracted",
-      "transcript_file": "transcripts/GdwKR4Lel5Y.txt"
+      "transcript_file": "transcripts/GdwKR4Lel5Y.txt",
+      "spreadsheet": "spreadsheets/V059_GdwKR4Lel5Y_With-Just-12-Lakh-How-They-Started-Their-Side-Quest-Ep-2.xlsx"
     },
     {
       "no": 60,
@@ -599,9 +599,9 @@
       "title": "We Built a ₹5 Lakh/Month Cafe While Working Full Time | Side Quest Ep: 1",
       "url": "https://www.youtube.com/watch?v=ab8-beM-vtY",
       "source": "Side Quest",
-      "sheet": "V060",
       "status": "extracted",
-      "transcript_file": "transcripts/ab8-beM-vtY.txt"
+      "transcript_file": "transcripts/ab8-beM-vtY.txt",
+      "spreadsheet": "spreadsheets/V060_ab8-beM-vtY_We-Built-a-5-Lakh-Month-Cafe-While-Working-Full-Time-Side-Quest-Ep-1.xlsx"
     },
     {
       "no": 61,
@@ -609,9 +609,9 @@
       "title": "Is ₹2.5 Cr Enough To Retire? He Tested It for 8 Years",
       "url": "https://www.youtube.com/watch?v=0FFLXl05yz4",
       "source": "Interesting people",
-      "sheet": "V061",
       "status": "extracted",
-      "transcript_file": "transcripts/0FFLXl05yz4.txt"
+      "transcript_file": "transcripts/0FFLXl05yz4.txt",
+      "spreadsheet": "spreadsheets/V061_0FFLXl05yz4_Is-2-5-Cr-Enough-To-Retire-He-Tested-It-for-8-Years.xlsx"
     },
     {
       "no": 62,
@@ -619,9 +619,9 @@
       "title": "Made Every Money Mistake... Yet Retired With ₹7 Crore!",
       "url": "https://www.youtube.com/watch?v=gcN11LzROYk",
       "source": "Interesting people",
-      "sheet": "V062",
       "status": "extracted",
-      "transcript_file": "transcripts/gcN11LzROYk.txt"
+      "transcript_file": "transcripts/gcN11LzROYk.txt",
+      "spreadsheet": "spreadsheets/V062_gcN11LzROYk_Made-Every-Money-Mistake-Yet-Retired-With-7-Crore.xlsx"
     },
     {
       "no": 63,
@@ -629,9 +629,9 @@
       "title": "Can You Really Retire Early?",
       "url": "https://www.youtube.com/watch?v=3zq4i7osd7A",
       "source": "Interesting people",
-      "sheet": "V063",
       "status": "extracted",
-      "transcript_file": "transcripts/3zq4i7osd7A.txt"
+      "transcript_file": "transcripts/3zq4i7osd7A.txt",
+      "spreadsheet": "spreadsheets/V063_3zq4i7osd7A_Can-You-Really-Retire-Early.xlsx"
     },
     {
       "no": 64,
@@ -639,9 +639,9 @@
       "title": "I Made ₹2 Crore Corpus... Then Everything Changed!",
       "url": "https://www.youtube.com/watch?v=-sQoZikzbQQ",
       "source": "Interesting people",
-      "sheet": "V064",
       "status": "extracted",
-      "transcript_file": "transcripts/-sQoZikzbQQ.txt"
+      "transcript_file": "transcripts/-sQoZikzbQQ.txt",
+      "spreadsheet": "spreadsheets/V064_-sQoZikzbQQ_I-Made-2-Crore-Corpus-Then-Everything-Changed.xlsx"
     },
     {
       "no": 65,
@@ -649,9 +649,9 @@
       "title": "This Simple Calculation Made Her Quit Her Job!",
       "url": "https://www.youtube.com/watch?v=RjV84g_7kho",
       "source": "Interesting people",
-      "sheet": "V065",
       "status": "extracted",
-      "transcript_file": "transcripts/RjV84g_7kho.txt"
+      "transcript_file": "transcripts/RjV84g_7kho.txt",
+      "spreadsheet": "spreadsheets/V065_RjV84g_7kho_This-Simple-Calculation-Made-Her-Quit-Her-Job.xlsx"
     },
     {
       "no": 66,
@@ -659,9 +659,9 @@
       "title": "Most Unusual FIRE Story, ₹10 Cr Built Only With FDs",
       "url": "https://www.youtube.com/watch?v=p7jmb9kmR_0",
       "source": "Interesting people",
-      "sheet": "V066",
       "status": "extracted",
-      "transcript_file": "transcripts/p7jmb9kmR_0.txt"
+      "transcript_file": "transcripts/p7jmb9kmR_0.txt",
+      "spreadsheet": "spreadsheets/V066_p7jmb9kmR_0_Most-Unusual-FIRE-Story-10-Cr-Built-Only-With-FDs.xlsx"
     },
     {
       "no": 67,
@@ -669,9 +669,9 @@
       "title": "How he made 9CR as an Engineer",
       "url": "https://www.youtube.com/watch?v=IYrDBf83HZo",
       "source": "Interesting people",
-      "sheet": "V067",
       "status": "extracted",
-      "transcript_file": "transcripts/IYrDBf83HZo.txt"
+      "transcript_file": "transcripts/IYrDBf83HZo.txt",
+      "spreadsheet": "spreadsheets/V067_IYrDBf83HZo_How-he-made-9CR-as-an-Engineer.xlsx"
     },
     {
       "no": 68,
@@ -679,9 +679,9 @@
       "title": "How a Salaryman Retired at 48 with ₹5 Crore",
       "url": "https://www.youtube.com/watch?v=o2Mk0bm6ch4",
       "source": "Interesting people",
-      "sheet": "V068",
       "status": "extracted",
-      "transcript_file": "transcripts/o2Mk0bm6ch4.txt"
+      "transcript_file": "transcripts/o2Mk0bm6ch4.txt",
+      "spreadsheet": "spreadsheets/V068_o2Mk0bm6ch4_How-a-Salaryman-Retired-at-48-with-5-Crore.xlsx"
     },
     {
       "no": 69,
@@ -689,9 +689,9 @@
       "title": "How he Retired Early with ZERO Investment in Equity?",
       "url": "https://www.youtube.com/watch?v=UZ0sH8yA-M4",
       "source": "Interesting people",
-      "sheet": "V069",
       "status": "extracted",
-      "transcript_file": "transcripts/UZ0sH8yA-M4.txt"
+      "transcript_file": "transcripts/UZ0sH8yA-M4.txt",
+      "spreadsheet": "spreadsheets/V069_UZ0sH8yA-M4_How-he-Retired-Early-with-ZERO-Investment-in-Equity.xlsx"
     },
     {
       "no": 70,
@@ -699,9 +699,9 @@
       "title": "How he Retired at 34 and Now Makes 1Cr Per Year?",
       "url": "https://www.youtube.com/watch?v=7qJhtvi98e4",
       "source": "Interesting people",
-      "sheet": "V070",
       "status": "extracted",
-      "transcript_file": "transcripts/7qJhtvi98e4.txt"
+      "transcript_file": "transcripts/7qJhtvi98e4.txt",
+      "spreadsheet": "spreadsheets/V070_7qJhtvi98e4_How-he-Retired-at-34-and-Now-Makes-1Cr-Per-Year.xlsx"
     },
     {
       "no": 71,
@@ -709,9 +709,9 @@
       "title": "₹70 Lakhs loss to ₹10 Crore corpus in 10 years? ",
       "url": "https://www.youtube.com/watch?v=CUM2xksBMtk",
       "source": "Interesting people",
-      "sheet": "V071",
       "status": "extracted",
-      "transcript_file": "transcripts/CUM2xksBMtk.txt"
+      "transcript_file": "transcripts/CUM2xksBMtk.txt",
+      "spreadsheet": "spreadsheets/V071_CUM2xksBMtk_70-Lakhs-loss-to-10-Crore-corpus-in-10-years.xlsx"
     },
     {
       "no": 72,
@@ -719,9 +719,9 @@
       "title": "Why He Left 1 Crore+ Salary for a Career Break?",
       "url": "https://www.youtube.com/watch?v=YuDRWrJteug",
       "source": "Interesting people",
-      "sheet": "V072",
       "status": "extracted",
-      "transcript_file": "transcripts/YuDRWrJteug.txt"
+      "transcript_file": "transcripts/YuDRWrJteug.txt",
+      "spreadsheet": "spreadsheets/V072_YuDRWrJteug_Why-He-Left-1-Crore-Salary-for-a-Career-Break.xlsx"
     },
     {
       "no": 73,
@@ -729,9 +729,9 @@
       "title": "How Did He Retire With ₹3.5Lakhs Passive Income?",
       "url": "https://www.youtube.com/watch?v=rDUEOTxbdK8",
       "source": "Interesting people",
-      "sheet": "V073",
       "status": "extracted",
-      "transcript_file": "transcripts/rDUEOTxbdK8.txt"
+      "transcript_file": "transcripts/rDUEOTxbdK8.txt",
+      "spreadsheet": "spreadsheets/V073_rDUEOTxbdK8_How-Did-He-Retire-With-3-5Lakhs-Passive-Income.xlsx"
     },
     {
       "no": 74,
@@ -739,9 +739,9 @@
       "title": "How This Man From Pune Made 10+ Crores?",
       "url": "https://www.youtube.com/watch?v=8si0A4hTYD4",
       "source": "Interesting people",
-      "sheet": "V074",
       "status": "extracted",
-      "transcript_file": "transcripts/8si0A4hTYD4.txt"
+      "transcript_file": "transcripts/8si0A4hTYD4.txt",
+      "spreadsheet": "spreadsheets/V074_8si0A4hTYD4_How-This-Man-From-Pune-Made-10-Crores.xlsx"
     },
     {
       "no": 75,
@@ -749,9 +749,9 @@
       "title": "How He Achieved Financial Freedom at 43?",
       "url": "https://www.youtube.com/watch?v=b2rhc-bJZTc",
       "source": "Interesting people",
-      "sheet": "V075",
       "status": "extracted",
-      "transcript_file": "transcripts/b2rhc-bJZTc.txt"
+      "transcript_file": "transcripts/b2rhc-bJZTc.txt",
+      "spreadsheet": "spreadsheets/V075_b2rhc-bJZTc_How-He-Achieved-Financial-Freedom-at-43.xlsx"
     },
     {
       "no": 76,
@@ -759,9 +759,9 @@
       "title": "How to 40x Your Salary WITHOUT Going Abroad?",
       "url": "https://www.youtube.com/watch?v=01cXoWHULWI",
       "source": "Interesting people",
-      "sheet": "V076",
       "status": "extracted",
-      "transcript_file": "transcripts/01cXoWHULWI.txt"
+      "transcript_file": "transcripts/01cXoWHULWI.txt",
+      "spreadsheet": "spreadsheets/V076_01cXoWHULWI_How-to-40x-Your-Salary-WITHOUT-Going-Abroad.xlsx"
     },
     {
       "no": 77,
@@ -769,9 +769,9 @@
       "title": "This Man Left a 3 Lakh Salary Job To Live His Dream?",
       "url": "https://www.youtube.com/watch?v=Iv_agfkU_xQ",
       "source": "Interesting people",
-      "sheet": "V077",
       "status": "extracted",
-      "transcript_file": "transcripts/Iv_agfkU_xQ.txt"
+      "transcript_file": "transcripts/Iv_agfkU_xQ.txt",
+      "spreadsheet": "spreadsheets/V077_Iv_agfkU_xQ_This-Man-Left-a-3-Lakh-Salary-Job-To-Live-His-Dream.xlsx"
     },
     {
       "no": 78,
@@ -779,9 +779,9 @@
       "title": "Retired & Travelling in Their 70s? [Living on Passive Income]",
       "url": "https://www.youtube.com/watch?v=HxZ-6UQI6sg",
       "source": "Interesting people",
-      "sheet": "V078",
       "status": "extracted",
-      "transcript_file": "transcripts/HxZ-6UQI6sg.txt"
+      "transcript_file": "transcripts/HxZ-6UQI6sg.txt",
+      "spreadsheet": "spreadsheets/V078_HxZ-6UQI6sg_Retired-Travelling-in-Their-70s-Living-on-Passive-Income.xlsx"
     },
     {
       "no": 79,
@@ -789,9 +789,9 @@
       "title": "From ₹10/day to ₹5 Crores Net Worth?",
       "url": "https://www.youtube.com/watch?v=dtaCmBvoogo",
       "source": "Interesting people",
-      "sheet": "V079",
       "status": "extracted",
-      "transcript_file": "transcripts/dtaCmBvoogo.txt"
+      "transcript_file": "transcripts/dtaCmBvoogo.txt",
+      "spreadsheet": "spreadsheets/V079_dtaCmBvoogo_From-10-day-to-5-Crores-Net-Worth.xlsx"
     },
     {
       "no": 80,
@@ -799,9 +799,9 @@
       "title": "Power of ₹5,000 SIP - ₹5 Crores Net Worth",
       "url": "https://www.youtube.com/watch?v=Nsg6PjBaE_A",
       "source": "Interesting people",
-      "sheet": "V080",
       "status": "extracted",
-      "transcript_file": "transcripts/Nsg6PjBaE_A.txt"
+      "transcript_file": "transcripts/Nsg6PjBaE_A.txt",
+      "spreadsheet": "spreadsheets/V080_Nsg6PjBaE_A_Power-of-5-000-SIP-5-Crores-Net-Worth.xlsx"
     },
     {
       "no": 81,
@@ -809,9 +809,9 @@
       "title": "From Paying EMIs to Earning 76k Passive Income in JUST 5 Years?",
       "url": "https://www.youtube.com/watch?v=A-v4GxXmW1M",
       "source": "Interesting people",
-      "sheet": "V081",
       "status": "extracted",
-      "transcript_file": "transcripts/A-v4GxXmW1M.txt"
+      "transcript_file": "transcripts/A-v4GxXmW1M.txt",
+      "spreadsheet": "spreadsheets/V081_A-v4GxXmW1M_From-Paying-EMIs-to-Earning-76k-Passive-Income-in-JUST-5-Years.xlsx"
     },
     {
       "no": 82,
@@ -819,9 +819,9 @@
       "title": "Retired from Army with ₹10 Crores in Coorg?",
       "url": "https://www.youtube.com/watch?v=xaJvmFxgUto",
       "source": "Interesting people",
-      "sheet": "V082",
       "status": "extracted",
-      "transcript_file": "transcripts/xaJvmFxgUto.txt"
+      "transcript_file": "transcripts/xaJvmFxgUto.txt",
+      "spreadsheet": "spreadsheets/V082_xaJvmFxgUto_Retired-from-Army-with-10-Crores-in-Coorg.xlsx"
     },
     {
       "no": 83,
@@ -829,9 +829,9 @@
       "title": "From Paying EMIs to ₹ 90,000 Passive Income",
       "url": "https://www.youtube.com/watch?v=Y4NDRFQggjI",
       "source": "Interesting people",
-      "sheet": "V083",
       "status": "extracted",
-      "transcript_file": "transcripts/Y4NDRFQggjI.txt"
+      "transcript_file": "transcripts/Y4NDRFQggjI.txt",
+      "spreadsheet": "spreadsheets/V083_Y4NDRFQggjI_From-Paying-EMIs-to-90-000-Passive-Income.xlsx"
     },
     {
       "no": 84,
@@ -839,9 +839,9 @@
       "title": "How Passive Income Helped Him Take a Career Break?",
       "url": "https://www.youtube.com/watch?v=FnZ7ZjvtuJ8",
       "source": "Interesting people",
-      "sheet": "V084",
       "status": "extracted",
-      "transcript_file": "transcripts/FnZ7ZjvtuJ8.txt"
+      "transcript_file": "transcripts/FnZ7ZjvtuJ8.txt",
+      "spreadsheet": "spreadsheets/V084_FnZ7ZjvtuJ8_How-Passive-Income-Helped-Him-Take-a-Career-Break.xlsx"
     },
     {
       "no": 85,
@@ -849,9 +849,9 @@
       "title": "Why This Couple Left Delhi & Moved to Mussoorie?",
       "url": "https://www.youtube.com/watch?v=FA3Idn3Lxto",
       "source": "Interesting people",
-      "sheet": "V085",
       "status": "extracted",
-      "transcript_file": "transcripts/FA3Idn3Lxto.txt"
+      "transcript_file": "transcripts/FA3Idn3Lxto.txt",
+      "spreadsheet": "spreadsheets/V085_FA3Idn3Lxto_Why-This-Couple-Left-Delhi-Moved-to-Mussoorie.xlsx"
     },
     {
       "no": 86,
@@ -859,9 +859,9 @@
       "title": "How Did He Make His First Crore?",
       "url": "https://www.youtube.com/watch?v=y1gcwSr9gLg",
       "source": "Interesting people",
-      "sheet": "V086",
       "status": "extracted",
-      "transcript_file": "transcripts/y1gcwSr9gLg.txt"
+      "transcript_file": "transcripts/y1gcwSr9gLg.txt",
+      "spreadsheet": "spreadsheets/V086_y1gcwSr9gLg_How-Did-He-Make-His-First-Crore.xlsx"
     },
     {
       "no": 87,
@@ -869,9 +869,9 @@
       "title": "ALL Expenses Covered By Passive Income? (Expense Management for FIRE)",
       "url": "https://www.youtube.com/watch?v=JdWh_iPRLvg",
       "source": "Interesting people",
-      "sheet": "V087",
       "status": "extracted",
-      "transcript_file": "transcripts/JdWh_iPRLvg.txt"
+      "transcript_file": "transcripts/JdWh_iPRLvg.txt",
+      "spreadsheet": "spreadsheets/V087_JdWh_iPRLvg_ALL-Expenses-Covered-By-Passive-Income-Expense-Management-for-FIRE.xlsx"
     },
     {
       "no": 88,
@@ -879,9 +879,9 @@
       "title": "How Leaving Bangalore Helped This Couple Get Rich?",
       "url": "https://www.youtube.com/watch?v=ex58Zb3FfCU",
       "source": "Interesting people",
-      "sheet": "V088",
       "status": "extracted",
-      "transcript_file": "transcripts/ex58Zb3FfCU.txt"
+      "transcript_file": "transcripts/ex58Zb3FfCU.txt",
+      "spreadsheet": "spreadsheets/V088_ex58Zb3FfCU_How-Leaving-Bangalore-Helped-This-Couple-Get-Rich.xlsx"
     },
     {
       "no": 89,
@@ -889,9 +889,9 @@
       "title": "How These Employees Became Rich? (ESOP)",
       "url": "https://www.youtube.com/watch?v=kYyJ9qcG4E0",
       "source": "Interesting people",
-      "sheet": "V089",
       "status": "extracted",
-      "transcript_file": "transcripts/kYyJ9qcG4E0.txt"
+      "transcript_file": "transcripts/kYyJ9qcG4E0.txt",
+      "spreadsheet": "spreadsheets/V089_kYyJ9qcG4E0_How-These-Employees-Became-Rich-ESOP.xlsx"
     },
     {
       "no": 90,
@@ -899,9 +899,9 @@
       "title": "How did he RETIRE with 10Cr+?",
       "url": "https://www.youtube.com/watch?v=w-R3LGULfow",
       "source": "Interesting people",
-      "sheet": "V090",
       "status": "extracted",
-      "transcript_file": "transcripts/w-R3LGULfow.txt"
+      "transcript_file": "transcripts/w-R3LGULfow.txt",
+      "spreadsheet": "spreadsheets/V090_w-R3LGULfow_How-did-he-RETIRE-with-10Cr.xlsx"
     },
     {
       "no": 91,
@@ -909,9 +909,9 @@
       "title": "How Does Passive Income Cover ALL His Expenses?",
       "url": "https://www.youtube.com/watch?v=tJ6azF8vuv8",
       "source": "Interesting people",
-      "sheet": "V091",
       "status": "extracted",
-      "transcript_file": "transcripts/tJ6azF8vuv8.txt"
+      "transcript_file": "transcripts/tJ6azF8vuv8.txt",
+      "spreadsheet": "spreadsheets/V091_tJ6azF8vuv8_How-Does-Passive-Income-Cover-ALL-His-Expenses.xlsx"
     },
     {
       "no": 92,
@@ -919,9 +919,9 @@
       "title": "Expense Covered by Passive Income (I Don't Touch My Salary)",
       "url": "https://www.youtube.com/watch?v=Nr3ATYqgRSw",
       "source": "Interesting people",
-      "sheet": "V092",
       "status": "extracted",
-      "transcript_file": "transcripts/Nr3ATYqgRSw.txt"
+      "transcript_file": "transcripts/Nr3ATYqgRSw.txt",
+      "spreadsheet": "spreadsheets/V092_Nr3ATYqgRSw_Expense-Covered-by-Passive-Income-I-Don-t-Touch-My-Salary.xlsx"
     },
     {
       "no": 93,
@@ -929,9 +929,9 @@
       "title": "Simple (But BRUTAL) Truth about Money",
       "url": "https://www.youtube.com/watch?v=6YP6dWfDyjo",
       "source": "Interesting people",
-      "sheet": "V093",
       "status": "extracted",
-      "transcript_file": "transcripts/6YP6dWfDyjo.txt"
+      "transcript_file": "transcripts/6YP6dWfDyjo.txt",
+      "spreadsheet": "spreadsheets/V093_6YP6dWfDyjo_Simple-But-BRUTAL-Truth-about-Money.xlsx"
     },
     {
       "no": 94,
@@ -939,9 +939,9 @@
       "title": "How He Helped Teachers Make 45 LAKHS PER MONTH?",
       "url": "https://www.youtube.com/watch?v=pin5IITTOq0",
       "source": "Interesting people",
-      "sheet": "V094",
       "status": "extracted",
-      "transcript_file": "transcripts/pin5IITTOq0.txt"
+      "transcript_file": "transcripts/pin5IITTOq0.txt",
+      "spreadsheet": "spreadsheets/V094_pin5IITTOq0_How-He-Helped-Teachers-Make-45-LAKHS-PER-MONTH.xlsx"
     },
     {
       "no": 95,
@@ -949,9 +949,9 @@
       "title": "How Does He Afford A 20 Crore House in Bangalore?",
       "url": "https://www.youtube.com/watch?v=scAibuB65TA",
       "source": "Interesting people",
-      "sheet": "V095",
       "status": "extracted",
-      "transcript_file": "transcripts/scAibuB65TA.txt"
+      "transcript_file": "transcripts/scAibuB65TA.txt",
+      "spreadsheet": "spreadsheets/V095_scAibuB65TA_How-Does-He-Afford-A-20-Crore-House-in-Bangalore.xlsx"
     },
     {
       "no": 96,
@@ -959,9 +959,9 @@
       "title": "How Much Money Do You Need To Retire Early?",
       "url": "https://www.youtube.com/watch?v=_BhZqJdsaXU",
       "source": "Interesting people",
-      "sheet": "V096",
       "status": "extracted",
-      "transcript_file": "transcripts/_BhZqJdsaXU.txt"
+      "transcript_file": "transcripts/_BhZqJdsaXU.txt",
+      "spreadsheet": "spreadsheets/V096__BhZqJdsaXU_How-Much-Money-Do-You-Need-To-Retire-Early.xlsx"
     },
     {
       "no": 97,
@@ -969,9 +969,9 @@
       "title": "How Did He Achieve Financial Freedom (So Early)?",
       "url": "https://www.youtube.com/watch?v=g0PQtwZVP7U",
       "source": "Interesting people",
-      "sheet": "V097",
       "status": "extracted",
-      "transcript_file": "transcripts/g0PQtwZVP7U.txt"
+      "transcript_file": "transcripts/g0PQtwZVP7U.txt",
+      "spreadsheet": "spreadsheets/V097_g0PQtwZVP7U_How-Did-He-Achieve-Financial-Freedom-So-Early.xlsx"
     },
     {
       "no": 98,
@@ -979,9 +979,9 @@
       "title": "Bollywood Director's Income Revealed",
       "url": "https://www.youtube.com/watch?v=Q147Q9jAn7s",
       "source": "Interesting people",
-      "sheet": "V098",
       "status": "extracted",
-      "transcript_file": "transcripts/Q147Q9jAn7s.txt"
+      "transcript_file": "transcripts/Q147Q9jAn7s.txt",
+      "spreadsheet": "spreadsheets/V098_Q147Q9jAn7s_Bollywood-Director-s-Income-Revealed.xlsx"
     },
     {
       "no": 99,
@@ -989,9 +989,9 @@
       "title": "How Does He Afford This Luxury Home In Mumbai?",
       "url": "https://www.youtube.com/watch?v=HoYh2JfIaBw",
       "source": "Interesting people",
-      "sheet": "V099",
       "status": "extracted",
-      "transcript_file": "transcripts/HoYh2JfIaBw.txt"
+      "transcript_file": "transcripts/HoYh2JfIaBw.txt",
+      "spreadsheet": "spreadsheets/V099_HoYh2JfIaBw_How-Does-He-Afford-This-Luxury-Home-In-Mumbai.xlsx"
     },
     {
       "no": 100,
@@ -999,9 +999,9 @@
       "title": "Asking This Bangalore Couple How They Got Rich?",
       "url": "https://www.youtube.com/watch?v=9mx2EJBLwbk",
       "source": "Interesting people",
-      "sheet": "V100",
       "status": "extracted",
-      "transcript_file": "transcripts/9mx2EJBLwbk.txt"
+      "transcript_file": "transcripts/9mx2EJBLwbk.txt",
+      "spreadsheet": "spreadsheets/V100_9mx2EJBLwbk_Asking-This-Bangalore-Couple-How-They-Got-Rich.xlsx"
     },
     {
       "no": 101,
@@ -1009,9 +1009,9 @@
       "title": "Asking Why He Rejected 40 Crores?​ @LabourLawAdvisor",
       "url": "https://www.youtube.com/watch?v=T3Cgti8WVQ8",
       "source": "Interesting people",
-      "sheet": "V101",
       "status": "extracted",
-      "transcript_file": "transcripts/T3Cgti8WVQ8.txt"
+      "transcript_file": "transcripts/T3Cgti8WVQ8.txt",
+      "spreadsheet": "spreadsheets/V101_T3Cgti8WVQ8_Asking-Why-He-Rejected-40-Crores-LabourLawAdvisor.xlsx"
     },
     {
       "no": 102,
@@ -1019,9 +1019,9 @@
       "title": "Asking Them How They Make 45 Crore Revenue?",
       "url": "https://www.youtube.com/watch?v=lA0XBrv8aR4",
       "source": "Interesting people",
-      "sheet": "V102",
       "status": "extracted",
-      "transcript_file": "transcripts/lA0XBrv8aR4.txt"
+      "transcript_file": "transcripts/lA0XBrv8aR4.txt",
+      "spreadsheet": "spreadsheets/V102_lA0XBrv8aR4_Asking-Them-How-They-Make-45-Crore-Revenue.xlsx"
     },
     {
       "no": 103,
@@ -1029,9 +1029,9 @@
       "title": "He Left His Investment Banking Job To Do This",
       "url": "https://www.youtube.com/watch?v=UaezQyZx_kI",
       "source": "Interesting people",
-      "sheet": "V103",
       "status": "extracted",
-      "transcript_file": "transcripts/UaezQyZx_kI.txt"
+      "transcript_file": "transcripts/UaezQyZx_kI.txt",
+      "spreadsheet": "spreadsheets/V103_UaezQyZx_kI_He-Left-His-Investment-Banking-Job-To-Do-This.xlsx"
     },
     {
       "no": 104,
@@ -1039,9 +1039,9 @@
       "title": "Why is He Paying 36 Lakhs In Rent in Mumbai?",
       "url": "https://www.youtube.com/watch?v=r8e_HHxHnok",
       "source": "Interesting people",
-      "sheet": "V104",
       "status": "extracted",
-      "transcript_file": "transcripts/r8e_HHxHnok.txt"
+      "transcript_file": "transcripts/r8e_HHxHnok.txt",
+      "spreadsheet": "spreadsheets/V104_r8e_HHxHnok_Why-is-He-Paying-36-Lakhs-In-Rent-in-Mumbai.xlsx"
     },
     {
       "no": 105,
@@ -1049,9 +1049,9 @@
       "title": "How This Couple In Bengaluru Got Rich?",
       "url": "https://www.youtube.com/watch?v=yNH1DgFBA_E",
       "source": "Interesting people",
-      "sheet": "V105",
       "status": "extracted",
-      "transcript_file": "transcripts/yNH1DgFBA_E.txt"
+      "transcript_file": "transcripts/yNH1DgFBA_E.txt",
+      "spreadsheet": "spreadsheets/V105_yNH1DgFBA_E_How-This-Couple-In-Bengaluru-Got-Rich.xlsx"
     },
     {
       "no": 106,
@@ -1059,9 +1059,9 @@
       "title": "The Power of a Shark Tank Deal: Our Story of Business Growth",
       "url": "https://www.youtube.com/watch?v=UFBr1V-1eAg",
       "source": "Interesting people",
-      "sheet": "V106",
       "status": "extracted",
-      "transcript_file": "transcripts/UFBr1V-1eAg.txt"
+      "transcript_file": "transcripts/UFBr1V-1eAg.txt",
+      "spreadsheet": "spreadsheets/V106_UFBr1V-1eAg_The-Power-of-a-Shark-Tank-Deal-Our-Story-of-Business-Growth.xlsx"
     },
     {
       "no": 107,
@@ -1069,9 +1069,9 @@
       "title": "Making ₹50,000 a Day Selling Juices",
       "url": "https://www.youtube.com/watch?v=gYFCqCP0Yxs",
       "source": "Interesting people",
-      "sheet": "V107",
       "status": "extracted",
-      "transcript_file": "transcripts/gYFCqCP0Yxs.txt"
+      "transcript_file": "transcripts/gYFCqCP0Yxs.txt",
+      "spreadsheet": "spreadsheets/V107_gYFCqCP0Yxs_Making-50-000-a-Day-Selling-Juices.xlsx"
     },
     {
       "no": 108,
@@ -1079,9 +1079,9 @@
       "title": "What made them leave Bengaluru?",
       "url": "https://www.youtube.com/watch?v=m_vMvm4-3s8",
       "source": "Interesting people",
-      "sheet": "V108",
       "status": "extracted",
-      "transcript_file": "transcripts/m_vMvm4-3s8.txt"
+      "transcript_file": "transcripts/m_vMvm4-3s8.txt",
+      "spreadsheet": "spreadsheets/V108_m_vMvm4-3s8_What-made-them-leave-Bengaluru.xlsx"
     },
     {
       "no": 109,
@@ -1089,9 +1089,9 @@
       "title": "₹100 Crores with Mutual Fund SIP ? | ONE IDIOT| Financial Freedom",
       "url": "https://www.youtube.com/watch?v=YgDOQVJQd90",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V109",
       "status": "extracted",
-      "transcript_file": "transcripts/YgDOQVJQd90.txt"
+      "transcript_file": "transcripts/YgDOQVJQd90.txt",
+      "spreadsheet": "spreadsheets/V109_YgDOQVJQd90_100-Crores-with-Mutual-Fund-SIP-ONE-IDIOT-Financial-Freedom.xlsx"
     },
     {
       "no": 110,
@@ -1099,9 +1099,9 @@
       "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
       "url": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V110",
       "status": "extracted",
-      "transcript_file": "transcripts/5lrA2UaYsBM.txt"
+      "transcript_file": "transcripts/5lrA2UaYsBM.txt",
+      "spreadsheet": "spreadsheets/V110_5lrA2UaYsBM_The-Real-Strategy-to-Getting-Rich-in-the-Next-3-Years.xlsx"
     },
     {
       "no": 111,
@@ -1109,9 +1109,9 @@
       "title": "Our Net Worth Is ₹50 Crores. We Live at a Farm",
       "url": "https://www.youtube.com/watch?v=WZIH94Fy1h4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V111",
       "status": "extracted",
-      "transcript_file": "transcripts/WZIH94Fy1h4.txt"
+      "transcript_file": "transcripts/WZIH94Fy1h4.txt",
+      "spreadsheet": "spreadsheets/V111_WZIH94Fy1h4_Our-Net-Worth-Is-50-Crores-We-Live-at-a-Farm.xlsx"
     },
     {
       "no": 112,
@@ -1119,9 +1119,9 @@
       "title": "Retire RICH With Mutual Funds. Do this.",
       "url": "https://www.youtube.com/watch?v=wyUm7RTpVAs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V112",
       "status": "extracted",
-      "transcript_file": "transcripts/wyUm7RTpVAs.txt"
+      "transcript_file": "transcripts/wyUm7RTpVAs.txt",
+      "spreadsheet": "spreadsheets/V112_wyUm7RTpVAs_Retire-RICH-With-Mutual-Funds-Do-this.xlsx"
     },
     {
       "no": 113,
@@ -1129,9 +1129,9 @@
       "title": "How He Built Wealth with SIPs for 14 years | Journey to Financial Freedom",
       "url": "https://www.youtube.com/watch?v=YB7lqlTrBEk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V113",
       "status": "extracted",
-      "transcript_file": "transcripts/YB7lqlTrBEk.txt"
+      "transcript_file": "transcripts/YB7lqlTrBEk.txt",
+      "spreadsheet": "spreadsheets/V113_YB7lqlTrBEk_How-He-Built-Wealth-with-SIPs-for-14-years-Journey-to-Financial-Freedo.xlsx"
     },
     {
       "no": 114,
@@ -1139,9 +1139,9 @@
       "title": "He Became Financially Free at 38 With Mutual Funds. Here’s How",
       "url": "https://www.youtube.com/watch?v=HmW6T6i2Okc",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V114",
       "status": "extracted",
-      "transcript_file": "transcripts/HmW6T6i2Okc.txt"
+      "transcript_file": "transcripts/HmW6T6i2Okc.txt",
+      "spreadsheet": "spreadsheets/V114_HmW6T6i2Okc_He-Became-Financially-Free-at-38-With-Mutual-Funds-Here-s-How.xlsx"
     },
     {
       "no": 115,
@@ -1149,9 +1149,9 @@
       "title": "This 1 Strategy Made Me Financially Free",
       "url": "https://www.youtube.com/watch?v=YSux7rtMo9k",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V115",
       "status": "extracted",
-      "transcript_file": "transcripts/YSux7rtMo9k.txt"
+      "transcript_file": "transcripts/YSux7rtMo9k.txt",
+      "spreadsheet": "spreadsheets/V115_YSux7rtMo9k_This-1-Strategy-Made-Me-Financially-Free.xlsx"
     },
     {
       "no": 116,
@@ -1159,9 +1159,9 @@
       "title": "The Real Strategy to Getting Rich in the Next 5 Years",
       "url": "https://www.youtube.com/watch?v=v3JHzaVSlgg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V116",
       "status": "extracted",
-      "transcript_file": "transcripts/v3JHzaVSlgg.txt"
+      "transcript_file": "transcripts/v3JHzaVSlgg.txt",
+      "spreadsheet": "spreadsheets/V116_v3JHzaVSlgg_The-Real-Strategy-to-Getting-Rich-in-the-Next-5-Years.xlsx"
     },
     {
       "no": 117,
@@ -1169,9 +1169,9 @@
       "title": "Best Money-Making Strategies in 2025 | Radhika Gupta",
       "url": "https://www.youtube.com/watch?v=xQvgLOT3NIg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V117",
       "status": "extracted",
-      "transcript_file": "transcripts/xQvgLOT3NIg.txt"
+      "transcript_file": "transcripts/xQvgLOT3NIg.txt",
+      "spreadsheet": "spreadsheets/V117_xQvgLOT3NIg_Best-Money-Making-Strategies-in-2025-Radhika-Gupta.xlsx"
     },
     {
       "no": 118,
@@ -1179,9 +1179,9 @@
       "title": "Is ₹1 Lakh Salary Enough For Financial Freedom?! | Ft. Pranjal Kamra",
       "url": "https://www.youtube.com/watch?v=hy3YbTvCuTM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V118",
       "status": "extracted",
-      "transcript_file": "transcripts/hy3YbTvCuTM.txt"
+      "transcript_file": "transcripts/hy3YbTvCuTM.txt",
+      "spreadsheet": "spreadsheets/V118_hy3YbTvCuTM_Is-1-Lakh-Salary-Enough-For-Financial-Freedom-Ft-Pranjal-Kamra.xlsx"
     },
     {
       "no": 119,
@@ -1189,9 +1189,9 @@
       "title": "From ₹50,000 Salary to ₹14 Lakhs/Month - 5 Income Sources! | Ft. Shashank Udupa",
       "url": "https://www.youtube.com/watch?v=QFkHvFJncXM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V119",
       "status": "extracted",
-      "transcript_file": "transcripts/QFkHvFJncXM.txt"
+      "transcript_file": "transcripts/QFkHvFJncXM.txt",
+      "spreadsheet": "spreadsheets/V119_QFkHvFJncXM_From-50-000-Salary-to-14-Lakhs-Month-5-Income-Sources-Ft-Shashank-Udup.xlsx"
     },
     {
       "no": 120,
@@ -1199,9 +1199,9 @@
       "title": "Getting Rich in 2025 is Easier Than You Think! Here’s How| ft.  @VarunMalhotraEIFS",
       "url": "https://www.youtube.com/watch?v=nhNDK0dEj4M",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V120",
       "status": "extracted",
-      "transcript_file": "transcripts/nhNDK0dEj4M.txt"
+      "transcript_file": "transcripts/nhNDK0dEj4M.txt",
+      "spreadsheet": "spreadsheets/V120_nhNDK0dEj4M_Getting-Rich-in-2025-is-Easier-Than-You-Think-Here-s-How-ft-VarunMalho.xlsx"
     },
     {
       "no": 121,
@@ -1209,9 +1209,9 @@
       "title": "Why SIPs Alone Won’t Make You Rich - Nilesh Shah Explains",
       "url": "https://www.youtube.com/watch?v=LJlbBSUj2Kg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V121",
       "status": "extracted",
-      "transcript_file": "transcripts/LJlbBSUj2Kg.txt"
+      "transcript_file": "transcripts/LJlbBSUj2Kg.txt",
+      "spreadsheet": "spreadsheets/V121_LJlbBSUj2Kg_Why-SIPs-Alone-Won-t-Make-You-Rich-Nilesh-Shah-Explains.xlsx"
     },
     {
       "no": 122,
@@ -1219,9 +1219,9 @@
       "title": "₹25 Crores with Mutual Fund SIP? | Power of Compounding | SWP Vs SIP | Podcast with @Sanjay_Kathuria",
       "url": "https://www.youtube.com/watch?v=bcbWHAgo6ug",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V122",
       "status": "extracted",
-      "transcript_file": "transcripts/bcbWHAgo6ug.txt"
+      "transcript_file": "transcripts/bcbWHAgo6ug.txt",
+      "spreadsheet": "spreadsheets/V122_bcbWHAgo6ug_25-Crores-with-Mutual-Fund-SIP-Power-of-Compounding-SWP-Vs-SIP-Podcast.xlsx"
     },
     {
       "no": 123,
@@ -1229,9 +1229,9 @@
       "title": "You Don't Need More Stock Tips. You Need This Framework",
       "url": "https://www.youtube.com/watch?v=UyR3rpA80ZM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V123",
       "status": "extracted",
-      "transcript_file": "transcripts/UyR3rpA80ZM.txt"
+      "transcript_file": "transcripts/UyR3rpA80ZM.txt",
+      "spreadsheet": "spreadsheets/V123_UyR3rpA80ZM_You-Don-t-Need-More-Stock-Tips-You-Need-This-Framework.xlsx"
     },
     {
       "no": 124,
@@ -1239,9 +1239,9 @@
       "title": "This 1 Strategy Made Me Financially Free",
       "url": "https://www.youtube.com/watch?v=fjEpprP1kSY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V124",
       "status": "extracted",
-      "transcript_file": "transcripts/fjEpprP1kSY.txt"
+      "transcript_file": "transcripts/fjEpprP1kSY.txt",
+      "spreadsheet": "spreadsheets/V124_fjEpprP1kSY_This-1-Strategy-Made-Me-Financially-Free.xlsx"
     },
     {
       "no": 125,
@@ -1249,9 +1249,9 @@
       "title": "How To Make ₹0 to ₹1 Crore: Practical Mutual Fund Strategy for Beginners -  @ProfessorVinnyArora",
       "url": "https://www.youtube.com/watch?v=eeGpqhHNQic",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V125",
       "status": "extracted",
-      "transcript_file": "transcripts/eeGpqhHNQic.txt"
+      "transcript_file": "transcripts/eeGpqhHNQic.txt",
+      "spreadsheet": "spreadsheets/V125_eeGpqhHNQic_How-To-Make-0-to-1-Crore-Practical-Mutual-Fund-Strategy-for-Beginners-.xlsx"
     },
     {
       "no": 126,
@@ -1259,9 +1259,9 @@
       "title": "You can NOT retire with ₹3 Cr corpus!| Retirement Planning |Ft. Dr. Pattu, IIT Madras |FIRE Movement",
       "url": "https://www.youtube.com/watch?v=Lg7rKn805wQ",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V126",
       "status": "extracted",
-      "transcript_file": "transcripts/Lg7rKn805wQ.txt"
+      "transcript_file": "transcripts/Lg7rKn805wQ.txt",
+      "spreadsheet": "spreadsheets/V126_Lg7rKn805wQ_You-can-NOT-retire-with-3-Cr-corpus-Retirement-Planning-Ft-Dr-Pattu-II.xlsx"
     },
     {
       "no": 127,
@@ -1269,9 +1269,9 @@
       "title": "I Became Financially Free at 37! | A Common Man Story",
       "url": "https://www.youtube.com/watch?v=c2XeVr09d7M",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V127",
       "status": "extracted",
-      "transcript_file": "transcripts/c2XeVr09d7M.txt"
+      "transcript_file": "transcripts/c2XeVr09d7M.txt",
+      "spreadsheet": "spreadsheets/V127_c2XeVr09d7M_I-Became-Financially-Free-at-37-A-Common-Man-Story.xlsx"
     },
     {
       "no": 128,
@@ -1279,9 +1279,9 @@
       "title": "Why Wealth Explodes After ₹1 CRORE & How to Get There FAST ? | Ft. @Hemant_Pant",
       "url": "https://www.youtube.com/watch?v=gOKp4_1hrFM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V128",
       "status": "extracted",
-      "transcript_file": "transcripts/gOKp4_1hrFM.txt"
+      "transcript_file": "transcripts/gOKp4_1hrFM.txt",
+      "spreadsheet": "spreadsheets/V128_gOKp4_1hrFM_Why-Wealth-Explodes-After-1-CRORE-How-to-Get-There-FAST-Ft-Hemant-Pant.xlsx"
     },
     {
       "no": 129,
@@ -1289,9 +1289,9 @@
       "title": "1 Fund to Become Crorepati in 2026 | Ft. S. Naren",
       "url": "https://www.youtube.com/watch?v=QYvy8LctO6g",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V129",
       "status": "extracted",
-      "transcript_file": "transcripts/QYvy8LctO6g.txt"
+      "transcript_file": "transcripts/QYvy8LctO6g.txt",
+      "spreadsheet": "spreadsheets/V129_QYvy8LctO6g_1-Fund-to-Become-Crorepati-in-2026-Ft-S-Naren.xlsx"
     },
     {
       "no": 130,
@@ -1299,9 +1299,9 @@
       "title": "The Right Way to Build Wealth in India | Ft. Devina Mehra",
       "url": "https://www.youtube.com/watch?v=oEp_-F_G_OU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V130",
       "status": "extracted",
-      "transcript_file": "transcripts/oEp_-F_G_OU.txt"
+      "transcript_file": "transcripts/oEp_-F_G_OU.txt",
+      "spreadsheet": "spreadsheets/V130_oEp_-F_G_OU_The-Right-Way-to-Build-Wealth-in-India-Ft-Devina-Mehra.xlsx"
     },
     {
       "no": 131,
@@ -1309,9 +1309,9 @@
       "title": "Best Money Making Strategies in 2026 | Ft. Shankar Sharma",
       "url": "https://www.youtube.com/watch?v=UtgxfeKPJr4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V131",
       "status": "extracted",
-      "transcript_file": "transcripts/UtgxfeKPJr4.txt"
+      "transcript_file": "transcripts/UtgxfeKPJr4.txt",
+      "spreadsheet": "spreadsheets/V131_UtgxfeKPJr4_Best-Money-Making-Strategies-in-2026-Ft-Shankar-Sharma.xlsx"
     },
     {
       "no": 132,
@@ -1319,9 +1319,9 @@
       "title": "How Much is Enough to be Financially Free? Raamdeo Agrawal Answers",
       "url": "https://www.youtube.com/watch?v=wROBKbpZxsE",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V132",
       "status": "extracted",
-      "transcript_file": "transcripts/wROBKbpZxsE.txt"
+      "transcript_file": "transcripts/wROBKbpZxsE.txt",
+      "spreadsheet": "spreadsheets/V132_wROBKbpZxsE_How-Much-is-Enough-to-be-Financially-Free-Raamdeo-Agrawal-Answers.xlsx"
     },
     {
       "no": 133,
@@ -1329,9 +1329,9 @@
       "title": "Can ₹50K SIP Make You a Crorepati? Kirtan Shah Answers",
       "url": "https://www.youtube.com/watch?v=aGd4xE9tBc0",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V133",
       "status": "extracted",
-      "transcript_file": "transcripts/aGd4xE9tBc0.txt"
+      "transcript_file": "transcripts/aGd4xE9tBc0.txt",
+      "spreadsheet": "spreadsheets/V133_aGd4xE9tBc0_Can-50K-SIP-Make-You-a-Crorepati-Kirtan-Shah-Answers.xlsx"
     },
     {
       "no": 134,
@@ -1339,9 +1339,9 @@
       "title": "Started at 40, Retired at 50 - Is This Really Possible?",
       "url": "https://www.youtube.com/watch?v=GDO0n73LA6I",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V134",
       "status": "extracted",
-      "transcript_file": "transcripts/GDO0n73LA6I.txt"
+      "transcript_file": "transcripts/GDO0n73LA6I.txt",
+      "spreadsheet": "spreadsheets/V134_GDO0n73LA6I_Started-at-40-Retired-at-50-Is-This-Really-Possible.xlsx"
     },
     {
       "no": 135,
@@ -1349,9 +1349,9 @@
       "title": "Can an Average Indian Salary Make You Financially Free? | Ft. Vijai Mantri",
       "url": "https://www.youtube.com/watch?v=wP1jztdcCCc",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V135",
       "status": "extracted",
-      "transcript_file": "transcripts/wP1jztdcCCc.txt"
+      "transcript_file": "transcripts/wP1jztdcCCc.txt",
+      "spreadsheet": "spreadsheets/V135_wP1jztdcCCc_Can-an-Average-Indian-Salary-Make-You-Financially-Free-Ft-Vijai-Mantri.xlsx"
     },
     {
       "no": 136,
@@ -1359,9 +1359,9 @@
       "title": "My Net Worth is ₹5 Crores. Started with ₹10,000 Salary in IT",
       "url": "https://www.youtube.com/watch?v=PCgfIPFZhgs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V136",
       "status": "extracted",
-      "transcript_file": "transcripts/PCgfIPFZhgs.txt"
+      "transcript_file": "transcripts/PCgfIPFZhgs.txt",
+      "spreadsheet": "spreadsheets/V136_PCgfIPFZhgs_My-Net-Worth-is-5-Crores-Started-with-10-000-Salary-in-IT.xlsx"
     },
     {
       "no": 137,
@@ -1369,9 +1369,9 @@
       "title": "25 Crore Portfolio with Mutual Funds? How @NeerajArora did it!",
       "url": "https://www.youtube.com/watch?v=xiLWEGVQg5g",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V137",
       "status": "extracted",
-      "transcript_file": "transcripts/xiLWEGVQg5g.txt"
+      "transcript_file": "transcripts/xiLWEGVQg5g.txt",
+      "spreadsheet": "spreadsheets/V137_xiLWEGVQg5g_25-Crore-Portfolio-with-Mutual-Funds-How-NeerajArora-did-it.xlsx"
     },
     {
       "no": 138,
@@ -1379,9 +1379,9 @@
       "title": "Making Returns in 2026 is Easier Than You Think. Here's How! | Ft. Rajeev Thakkar",
       "url": "https://www.youtube.com/watch?v=wBPgVXixVvY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V138",
       "status": "extracted",
-      "transcript_file": "transcripts/wBPgVXixVvY.txt"
+      "transcript_file": "transcripts/wBPgVXixVvY.txt",
+      "spreadsheet": "spreadsheets/V138_wBPgVXixVvY_Making-Returns-in-2026-is-Easier-Than-You-Think-Here-s-How-Ft-Rajeev-T.xlsx"
     },
     {
       "no": 139,
@@ -1389,9 +1389,9 @@
       "title": "₹2500 Salary to ₹10 Cr Net Worth | A Common Man Story",
       "url": "https://www.youtube.com/watch?v=b3K8CigYtUI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V139",
       "status": "extracted",
-      "transcript_file": "transcripts/b3K8CigYtUI.txt"
+      "transcript_file": "transcripts/b3K8CigYtUI.txt",
+      "spreadsheet": "spreadsheets/V139_b3K8CigYtUI_2500-Salary-to-10-Cr-Net-Worth-A-Common-Man-Story.xlsx"
     },
     {
       "no": 140,
@@ -1399,9 +1399,9 @@
       "title": "The Shocking Truth About SIPs Nobody Tells You | Ft. Aashish Sommaiyaa",
       "url": "https://www.youtube.com/watch?v=GT2O65ob7mU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V140",
       "status": "extracted",
-      "transcript_file": "transcripts/GT2O65ob7mU.txt"
+      "transcript_file": "transcripts/GT2O65ob7mU.txt",
+      "spreadsheet": "spreadsheets/V140_GT2O65ob7mU_The-Shocking-Truth-About-SIPs-Nobody-Tells-You-Ft-Aashish-Sommaiyaa.xlsx"
     },
     {
       "no": 141,
@@ -1409,9 +1409,9 @@
       "title": "Passive Income Strategy That Made Him Financially Free",
       "url": "https://www.youtube.com/watch?v=IZPXyKRg9Cs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V141",
       "status": "extracted",
-      "transcript_file": "transcripts/IZPXyKRg9Cs.txt"
+      "transcript_file": "transcripts/IZPXyKRg9Cs.txt",
+      "spreadsheet": "spreadsheets/V141_IZPXyKRg9Cs_Passive-Income-Strategy-That-Made-Him-Financially-Free.xlsx"
     },
     {
       "no": 142,
@@ -1419,9 +1419,9 @@
       "title": "Portfolio Strategy to be Financially Free in India",
       "url": "https://www.youtube.com/watch?v=DfW79oHjaCc",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V142",
       "status": "extracted",
-      "transcript_file": "transcripts/DfW79oHjaCc.txt"
+      "transcript_file": "transcripts/DfW79oHjaCc.txt",
+      "spreadsheet": "spreadsheets/V142_DfW79oHjaCc_Portfolio-Strategy-to-be-Financially-Free-in-India.xlsx"
     },
     {
       "no": 143,
@@ -1429,9 +1429,9 @@
       "title": "Want to Be Rich? Saurabh Mukherjea suggests This 2-Fund Formula!",
       "url": "https://www.youtube.com/watch?v=Fpx1j61BBOQ",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V143",
       "status": "extracted",
-      "transcript_file": "transcripts/Fpx1j61BBOQ.txt"
+      "transcript_file": "transcripts/Fpx1j61BBOQ.txt",
+      "spreadsheet": "spreadsheets/V143_Fpx1j61BBOQ_Want-to-Be-Rich-Saurabh-Mukherjea-suggests-This-2-Fund-Formula.xlsx"
     },
     {
       "no": 144,
@@ -1439,9 +1439,9 @@
       "title": "Is ₹1 Crore Enough for Financial Independence? | Full Excel Calculation",
       "url": "https://www.youtube.com/watch?v=8RCOFdilri4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V144",
       "status": "extracted",
-      "transcript_file": "transcripts/8RCOFdilri4.txt"
+      "transcript_file": "transcripts/8RCOFdilri4.txt",
+      "spreadsheet": "spreadsheets/V144_8RCOFdilri4_Is-1-Crore-Enough-for-Financial-Independence-Full-Excel-Calculation.xlsx"
     },
     {
       "no": 145,
@@ -1449,9 +1449,9 @@
       "title": "1 Fund to Become Wealthy in 2026 | Ft. Gajendra Kothari",
       "url": "https://www.youtube.com/watch?v=pcmDhs9043o",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V145",
       "status": "extracted",
-      "transcript_file": "transcripts/pcmDhs9043o.txt"
+      "transcript_file": "transcripts/pcmDhs9043o.txt",
+      "spreadsheet": "spreadsheets/V145_pcmDhs9043o_1-Fund-to-Become-Wealthy-in-2026-Ft-Gajendra-Kothari.xlsx"
     },
     {
       "no": 146,
@@ -1459,9 +1459,9 @@
       "title": "His 5% Rule Built ₹11 Crore Net Worth | A Common Man Story",
       "url": "https://www.youtube.com/watch?v=NmV0571CKfg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V146",
       "status": "extracted",
-      "transcript_file": "transcripts/NmV0571CKfg.txt"
+      "transcript_file": "transcripts/NmV0571CKfg.txt",
+      "spreadsheet": "spreadsheets/V146_NmV0571CKfg_His-5-Rule-Built-11-Crore-Net-Worth-A-Common-Man-Story.xlsx"
     },
     {
       "no": 147,
@@ -1469,9 +1469,9 @@
       "title": "Stop Picking Mutual Funds Based on Past Returns | ft. Feroze Azeez",
       "url": "https://www.youtube.com/watch?v=H__Xn5SSGvU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V147",
       "status": "extracted",
-      "transcript_file": "transcripts/H__Xn5SSGvU.txt"
+      "transcript_file": "transcripts/H__Xn5SSGvU.txt",
+      "spreadsheet": "spreadsheets/V147_H__Xn5SSGvU_Stop-Picking-Mutual-Funds-Based-on-Past-Returns-ft-Feroze-Azeez.xlsx"
     },
     {
       "no": 148,
@@ -1479,9 +1479,9 @@
       "title": "How To Make ₹0 to ₹1 Crore Through Mutual Fund SIP?",
       "url": "https://www.youtube.com/watch?v=bBWljotFb4g",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V148",
       "status": "extracted",
-      "transcript_file": "transcripts/bBWljotFb4g.txt"
+      "transcript_file": "transcripts/bBWljotFb4g.txt",
+      "spreadsheet": "spreadsheets/V148_bBWljotFb4g_How-To-Make-0-to-1-Crore-Through-Mutual-Fund-SIP.xlsx"
     },
     {
       "no": 149,
@@ -1489,9 +1489,9 @@
       "title": "His Strategy for ₹4 Lakh/Month Passive Income! | Must Watch for Salaried Employees",
       "url": "https://www.youtube.com/watch?v=TAG8jQZy_cI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V149",
       "status": "extracted",
-      "transcript_file": "transcripts/TAG8jQZy_cI.txt"
+      "transcript_file": "transcripts/TAG8jQZy_cI.txt",
+      "spreadsheet": "spreadsheets/V149_TAG8jQZy_cI_His-Strategy-for-4-Lakh-Month-Passive-Income-Must-Watch-for-Salaried-E.xlsx"
     },
     {
       "no": 150,
@@ -1499,9 +1499,9 @@
       "title": "Getting Rich in 2026 is Easier Than You Think! Here’s How| ft. Kunal Saraogi",
       "url": "https://www.youtube.com/watch?v=rJo-_qF_NAM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V150",
       "status": "extracted",
-      "transcript_file": "transcripts/rJo-_qF_NAM.txt"
+      "transcript_file": "transcripts/rJo-_qF_NAM.txt",
+      "spreadsheet": "spreadsheets/V150_rJo-_qF_NAM_Getting-Rich-in-2026-is-Easier-Than-You-Think-Here-s-How-ft-Kunal-Sara.xlsx"
     },
     {
       "no": 151,
@@ -1509,9 +1509,9 @@
       "title": "₹6,000 Salary to ₹13 Cr Net Worth | A Common Man Story",
       "url": "https://www.youtube.com/watch?v=XMbv6EyzoDk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V151",
       "status": "extracted",
-      "transcript_file": "transcripts/XMbv6EyzoDk.txt"
+      "transcript_file": "transcripts/XMbv6EyzoDk.txt",
+      "spreadsheet": "spreadsheets/V151_XMbv6EyzoDk_6-000-Salary-to-13-Cr-Net-Worth-A-Common-Man-Story.xlsx"
     },
     {
       "no": 152,
@@ -1519,9 +1519,9 @@
       "title": "You ONLY Need These 2 Funds to Retire Early? Ft. ‪‪@shankarnath",
       "url": "https://www.youtube.com/watch?v=by9i9DAtpOU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V152",
       "status": "extracted",
-      "transcript_file": "transcripts/by9i9DAtpOU.txt"
+      "transcript_file": "transcripts/by9i9DAtpOU.txt",
+      "spreadsheet": "spreadsheets/V152_by9i9DAtpOU_You-ONLY-Need-These-2-Funds-to-Retire-Early-Ft-shankarnath.xlsx"
     },
     {
       "no": 153,
@@ -1529,9 +1529,9 @@
       "title": "IT Job, Average Salary, But Portfolio in Crores | Here’s How He Did It",
       "url": "https://www.youtube.com/watch?v=dzyWi6ubJrk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V153",
       "status": "extracted",
-      "transcript_file": "transcripts/dzyWi6ubJrk.txt"
+      "transcript_file": "transcripts/dzyWi6ubJrk.txt",
+      "spreadsheet": "spreadsheets/V153_dzyWi6ubJrk_IT-Job-Average-Salary-But-Portfolio-in-Crores-Here-s-How-He-Did-It.xlsx"
     },
     {
       "no": 154,
@@ -1539,9 +1539,9 @@
       "title": "How I Earn Passive Income Without Chasing Stocks | Financially Free at 37",
       "url": "https://www.youtube.com/watch?v=1o_lDWdutSs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V154",
       "status": "extracted",
-      "transcript_file": "transcripts/1o_lDWdutSs.txt"
+      "transcript_file": "transcripts/1o_lDWdutSs.txt",
+      "spreadsheet": "spreadsheets/V154_1o_lDWdutSs_How-I-Earn-Passive-Income-Without-Chasing-Stocks-Financially-Free-at-3.xlsx"
     },
     {
       "no": 155,
@@ -1549,9 +1549,9 @@
       "title": "1 Sector to Become Crorepati in 2026 | Ft. Ishmohit Arora (SOIC)",
       "url": "https://www.youtube.com/watch?v=C-y9iAKAUzw",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V155",
       "status": "extracted",
-      "transcript_file": "transcripts/C-y9iAKAUzw.txt"
+      "transcript_file": "transcripts/C-y9iAKAUzw.txt",
+      "spreadsheet": "spreadsheets/V155_C-y9iAKAUzw_1-Sector-to-Become-Crorepati-in-2026-Ft-Ishmohit-Arora-SOIC.xlsx"
     },
     {
       "no": 156,
@@ -1559,9 +1559,9 @@
       "title": "How Much Money Do You REALLY Need to Retire early?",
       "url": "https://www.youtube.com/watch?v=QbZNdWb7w90",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V156",
       "status": "extracted",
-      "transcript_file": "transcripts/QbZNdWb7w90.txt"
+      "transcript_file": "transcripts/QbZNdWb7w90.txt",
+      "spreadsheet": "spreadsheets/V156_QbZNdWb7w90_How-Much-Money-Do-You-REALLY-Need-to-Retire-early.xlsx"
     },
     {
       "no": 157,
@@ -1569,9 +1569,9 @@
       "title": "From ₹5L Salary to ₹3.3 Cr Net Worth: His Simple Wealth Strategy",
       "url": "https://www.youtube.com/watch?v=lgIvnzPS76g",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V157",
       "status": "extracted",
-      "transcript_file": "transcripts/lgIvnzPS76g.txt"
+      "transcript_file": "transcripts/lgIvnzPS76g.txt",
+      "spreadsheet": "spreadsheets/V157_lgIvnzPS76g_From-5L-Salary-to-3-3-Cr-Net-Worth-His-Simple-Wealth-Strategy.xlsx"
     },
     {
       "no": 158,
@@ -1579,9 +1579,9 @@
       "title": "She Built ₹13 Crore Net Worth With This Strategy",
       "url": "https://www.youtube.com/watch?v=3mxPMIBIdhw",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V158",
       "status": "extracted",
-      "transcript_file": "transcripts/3mxPMIBIdhw.txt"
+      "transcript_file": "transcripts/3mxPMIBIdhw.txt",
+      "spreadsheet": "spreadsheets/V158_3mxPMIBIdhw_She-Built-13-Crore-Net-Worth-With-This-Strategy.xlsx"
     },
     {
       "no": 159,
@@ -1589,9 +1589,9 @@
       "title": "₹1 CRORE FROM TRADING? Secret Revealed.",
       "url": "https://www.youtube.com/watch?v=vfaN7NGT79o",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V159",
       "status": "extracted",
-      "transcript_file": "transcripts/vfaN7NGT79o.txt"
+      "transcript_file": "transcripts/vfaN7NGT79o.txt",
+      "spreadsheet": "spreadsheets/V159_vfaN7NGT79o_1-CRORE-FROM-TRADING-Secret-Revealed.xlsx"
     },
     {
       "no": 160,
@@ -1599,9 +1599,9 @@
       "title": "How a Middle-Class Guy Went from ₹25k Salary to ₹5 Crore Net Worth?",
       "url": "https://www.youtube.com/watch?v=N-mWfeaAoJI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V160",
       "status": "extracted",
-      "transcript_file": "transcripts/N-mWfeaAoJI.txt"
+      "transcript_file": "transcripts/N-mWfeaAoJI.txt",
+      "spreadsheet": "spreadsheets/V160_N-mWfeaAoJI_How-a-Middle-Class-Guy-Went-from-25k-Salary-to-5-Crore-Net-Worth.xlsx"
     },
     {
       "no": 161,
@@ -1609,9 +1609,9 @@
       "title": "This 1 Strategy Made Me Crorepati",
       "url": "https://www.youtube.com/watch?v=qjTur8yToRk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V161",
       "status": "extracted",
-      "transcript_file": "transcripts/qjTur8yToRk.txt"
+      "transcript_file": "transcripts/qjTur8yToRk.txt",
+      "spreadsheet": "spreadsheets/V161_qjTur8yToRk_This-1-Strategy-Made-Me-Crorepati.xlsx"
     },
     {
       "no": 162,
@@ -1619,9 +1619,9 @@
       "title": "What's the Secret to Retiring Early with a ₹12 CR Corpus?",
       "url": "https://www.youtube.com/watch?v=nXKM7ImEfzs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V162",
       "status": "extracted",
-      "transcript_file": "transcripts/nXKM7ImEfzs.txt"
+      "transcript_file": "transcripts/nXKM7ImEfzs.txt",
+      "spreadsheet": "spreadsheets/V162_nXKM7ImEfzs_What-s-the-Secret-to-Retiring-Early-with-a-12-CR-Corpus.xlsx"
     },
     {
       "no": 163,
@@ -1629,9 +1629,9 @@
       "title": "From ₹8K Salary to ₹40 Cr Net Worth: His 40X Wealth Formula",
       "url": "https://www.youtube.com/watch?v=wRzHUXae7mk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V163",
       "status": "extracted",
-      "transcript_file": "transcripts/wRzHUXae7mk.txt"
+      "transcript_file": "transcripts/wRzHUXae7mk.txt",
+      "spreadsheet": "spreadsheets/V163_wRzHUXae7mk_From-8K-Salary-to-40-Cr-Net-Worth-His-40X-Wealth-Formula.xlsx"
     },
     {
       "no": 164,
@@ -1639,9 +1639,9 @@
       "title": "Financially Free at 38. Started with ₹7K Salary.",
       "url": "https://www.youtube.com/watch?v=sq1ZgL_dVGM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V164",
       "status": "extracted",
-      "transcript_file": "transcripts/sq1ZgL_dVGM.txt"
+      "transcript_file": "transcripts/sq1ZgL_dVGM.txt",
+      "spreadsheet": "spreadsheets/V164_sq1ZgL_dVGM_Financially-Free-at-38-Started-with-7K-Salary.xlsx"
     },
     {
       "no": 165,
@@ -1649,9 +1649,9 @@
       "title": "The Right Way to Build Wealth in Markets",
       "url": "https://www.youtube.com/watch?v=5MADZazBWfQ",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V165",
       "status": "extracted",
-      "transcript_file": "transcripts/5MADZazBWfQ.txt"
+      "transcript_file": "transcripts/5MADZazBWfQ.txt",
+      "spreadsheet": "spreadsheets/V165_5MADZazBWfQ_The-Right-Way-to-Build-Wealth-in-Markets.xlsx"
     },
     {
       "no": 166,
@@ -1659,9 +1659,9 @@
       "title": "Stock Market Secrets REVEALED by a 30-Year Veteran | Ft. Samir Arora",
       "url": "https://www.youtube.com/watch?v=MoZ8e5iZLAg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V166",
       "status": "extracted",
-      "transcript_file": "transcripts/MoZ8e5iZLAg.txt"
+      "transcript_file": "transcripts/MoZ8e5iZLAg.txt",
+      "spreadsheet": "spreadsheets/V166_MoZ8e5iZLAg_Stock-Market-Secrets-REVEALED-by-a-30-Year-Veteran-Ft-Samir-Arora.xlsx"
     },
     {
       "no": 167,
@@ -1669,9 +1669,9 @@
       "title": "20 Stocks = 80% Wealth? Deepak Shenoy Breaks Down Peter Lynch’s Strategy",
       "url": "https://www.youtube.com/watch?v=3OnIir3Pnzs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V167",
       "status": "extracted",
-      "transcript_file": "transcripts/3OnIir3Pnzs.txt"
+      "transcript_file": "transcripts/3OnIir3Pnzs.txt",
+      "spreadsheet": "spreadsheets/V167_3OnIir3Pnzs_20-Stocks-80-Wealth-Deepak-Shenoy-Breaks-Down-Peter-Lynch-s-Strategy.xlsx"
     },
     {
       "no": 168,
@@ -1679,9 +1679,9 @@
       "title": "Best Money Making Strategies in 2027",
       "url": "https://www.youtube.com/watch?v=Z7Tp4p21ALY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V168",
       "status": "extracted",
-      "transcript_file": "transcripts/Z7Tp4p21ALY.txt"
+      "transcript_file": "transcripts/Z7Tp4p21ALY.txt",
+      "spreadsheet": "spreadsheets/V168_Z7Tp4p21ALY_Best-Money-Making-Strategies-in-2027.xlsx"
     },
     {
       "no": 169,
@@ -1689,9 +1689,9 @@
       "title": "5 Smart Ways to GROW Your Investments - Peeyush Chitlangia | @FinShiksha",
       "url": "https://www.youtube.com/watch?v=M3aGMSBdykU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V169",
       "status": "extracted",
-      "transcript_file": "transcripts/M3aGMSBdykU.txt"
+      "transcript_file": "transcripts/M3aGMSBdykU.txt",
+      "spreadsheet": "spreadsheets/V169_M3aGMSBdykU_5-Smart-Ways-to-GROW-Your-Investments-Peeyush-Chitlangia-FinShiksha.xlsx"
     },
     {
       "no": 170,
@@ -1699,9 +1699,9 @@
       "title": "How to Reach ₹60 Crores Through SIPs? He Started with just ₹10K!",
       "url": "https://www.youtube.com/watch?v=CRE8mm3JOMg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V170",
       "status": "extracted",
-      "transcript_file": "transcripts/CRE8mm3JOMg.txt"
+      "transcript_file": "transcripts/CRE8mm3JOMg.txt",
+      "spreadsheet": "spreadsheets/V170_CRE8mm3JOMg_How-to-Reach-60-Crores-Through-SIPs-He-Started-with-just-10K.xlsx"
     },
     {
       "no": 171,
@@ -1709,9 +1709,9 @@
       "title": "How Karan Datta Built ₹10 Cr Corpus From 3K Salary At Age of 48 - Top Wealth Building Tips",
       "url": "https://www.youtube.com/watch?v=WY4KESSKvGA",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V171",
       "status": "extracted",
-      "transcript_file": "transcripts/WY4KESSKvGA.txt"
+      "transcript_file": "transcripts/WY4KESSKvGA.txt",
+      "spreadsheet": "spreadsheets/V171_WY4KESSKvGA_How-Karan-Datta-Built-10-Cr-Corpus-From-3K-Salary-At-Age-of-48-Top-Wea.xlsx"
     },
     {
       "no": 172,
@@ -1719,9 +1719,9 @@
       "title": "DON'T Retire Early | Reality of Early Retirement in India Ft. @AlokJain",
       "url": "https://www.youtube.com/watch?v=PEuyeX__tDI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V172",
       "status": "extracted",
-      "transcript_file": "transcripts/PEuyeX__tDI.txt"
+      "transcript_file": "transcripts/PEuyeX__tDI.txt",
+      "spreadsheet": "spreadsheets/V172_PEuyeX__tDI_DON-T-Retire-Early-Reality-of-Early-Retirement-in-India-Ft-AlokJain.xlsx"
     },
     {
       "no": 173,
@@ -1729,9 +1729,9 @@
       "title": "He Made ₹10 Crore Portfolio By Following This Strategy | Ft. Harsh Vira",
       "url": "https://www.youtube.com/watch?v=WHUnDefV5_k",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V173",
       "status": "extracted",
-      "transcript_file": "transcripts/WHUnDefV5_k.txt"
+      "transcript_file": "transcripts/WHUnDefV5_k.txt",
+      "spreadsheet": "spreadsheets/V173_WHUnDefV5_k_He-Made-10-Crore-Portfolio-By-Following-This-Strategy-Ft-Harsh-Vira.xlsx"
     },
     {
       "no": 174,
@@ -1739,9 +1739,9 @@
       "title": "My Dad’s 30% Rule That Helped Me Buy ₹2 Cr Farm",
       "url": "https://www.youtube.com/watch?v=JmiGVcQsMWs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V174",
       "status": "extracted",
-      "transcript_file": "transcripts/JmiGVcQsMWs.txt"
+      "transcript_file": "transcripts/JmiGVcQsMWs.txt",
+      "spreadsheet": "spreadsheets/V174_JmiGVcQsMWs_My-Dad-s-30-Rule-That-Helped-Me-Buy-2-Cr-Farm.xlsx"
     },
     {
       "no": 175,
@@ -1749,9 +1749,9 @@
       "title": "Why MIDDLE CLASS Indians are DYING POOR? | Reality Check on JOB CRISIS in country!",
       "url": "https://www.youtube.com/watch?v=dN5p-tVjqWo",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V175",
       "status": "extracted",
-      "transcript_file": "transcripts/dN5p-tVjqWo.txt"
+      "transcript_file": "transcripts/dN5p-tVjqWo.txt",
+      "spreadsheet": "spreadsheets/V175_dN5p-tVjqWo_Why-MIDDLE-CLASS-Indians-are-DYING-POOR-Reality-Check-on-JOB-CRISIS-in.xlsx"
     },
     {
       "no": 176,
@@ -1759,9 +1759,9 @@
       "title": "How this Hotel Clerk Went From ₹0 to ₹17 Crore?",
       "url": "https://www.youtube.com/watch?v=ZTRMX--G-74",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V176",
       "status": "extracted",
-      "transcript_file": "transcripts/ZTRMX--G-74.txt"
+      "transcript_file": "transcripts/ZTRMX--G-74.txt",
+      "spreadsheet": "spreadsheets/V176_ZTRMX--G-74_How-this-Hotel-Clerk-Went-From-0-to-17-Crore.xlsx"
     },
     {
       "no": 177,
@@ -1769,9 +1769,9 @@
       "title": "Started at 30, Financially Free at 38! - Is this POSSIBLE?",
       "url": "https://www.youtube.com/watch?v=0yL-s3nSm2s",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V177",
       "status": "extracted",
-      "transcript_file": "transcripts/0yL-s3nSm2s.txt"
+      "transcript_file": "transcripts/0yL-s3nSm2s.txt",
+      "spreadsheet": "spreadsheets/V177_0yL-s3nSm2s_Started-at-30-Financially-Free-at-38-Is-this-POSSIBLE.xlsx"
     },
     {
       "no": 178,
@@ -1779,9 +1779,9 @@
       "title": "How JioBlackRock Could Disrupt India’s ₹72 Lakh Crore Mutual Fund Industry | ft. Sid Swaminathan",
       "url": "https://www.youtube.com/watch?v=EVGVmixz5oI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V178",
       "status": "extracted",
-      "transcript_file": "transcripts/EVGVmixz5oI.txt"
+      "transcript_file": "transcripts/EVGVmixz5oI.txt",
+      "spreadsheet": "spreadsheets/V178_EVGVmixz5oI_How-JioBlackRock-Could-Disrupt-India-s-72-Lakh-Crore-Mutual-Fund-Indus.xlsx"
     },
     {
       "no": 179,
@@ -1789,9 +1789,9 @@
       "title": "Trading Stocks Made him a CROREPATI | Secrets Revealed by Top Investor",
       "url": "https://www.youtube.com/watch?v=vlCgEbFxxVw",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V179",
       "status": "extracted",
-      "transcript_file": "transcripts/vlCgEbFxxVw.txt"
+      "transcript_file": "transcripts/vlCgEbFxxVw.txt",
+      "spreadsheet": "spreadsheets/V179_vlCgEbFxxVw_Trading-Stocks-Made-him-a-CROREPATI-Secrets-Revealed-by-Top-Investor.xlsx"
     },
     {
       "no": 180,
@@ -1799,9 +1799,9 @@
       "title": "How a Salesman Retired in his 40s | Is ₹2.5 Crore Enough To Retire? ft. @TheFIREdCouple",
       "url": "https://www.youtube.com/watch?v=jMWr8TLiHuo",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V180",
       "status": "extracted",
-      "transcript_file": "transcripts/jMWr8TLiHuo.txt"
+      "transcript_file": "transcripts/jMWr8TLiHuo.txt",
+      "spreadsheet": "spreadsheets/V180_jMWr8TLiHuo_How-a-Salesman-Retired-in-his-40s-Is-2-5-Crore-Enough-To-Retire-ft-The.xlsx"
     },
     {
       "no": 181,
@@ -1809,9 +1809,9 @@
       "title": "REVEALED! 3 Ways How THE RICH Actually BUILD WEALTH!",
       "url": "https://www.youtube.com/watch?v=Zh4r02nvaPo",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V181",
       "status": "extracted",
-      "transcript_file": "transcripts/Zh4r02nvaPo.txt"
+      "transcript_file": "transcripts/Zh4r02nvaPo.txt",
+      "spreadsheet": "spreadsheets/V181_Zh4r02nvaPo_REVEALED-3-Ways-How-THE-RICH-Actually-BUILD-WEALTH.xlsx"
     },
     {
       "no": 182,
@@ -1819,9 +1819,9 @@
       "title": "How a Salaried Guy Built ₹7 Crores & a Farm — No Inheritance, No Business",
       "url": "https://www.youtube.com/watch?v=UplpdpCntJA",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V182",
       "status": "extracted",
-      "transcript_file": "transcripts/UplpdpCntJA.txt"
+      "transcript_file": "transcripts/UplpdpCntJA.txt",
+      "spreadsheet": "spreadsheets/V182_UplpdpCntJA_How-a-Salaried-Guy-Built-7-Crores-a-Farm-No-Inheritance-No-Business.xlsx"
     },
     {
       "no": 183,
@@ -1829,9 +1829,9 @@
       "title": "3 Sectors That Every Investor Should Focus On Right Now! | ft. Sandeep Tandon Quant",
       "url": "https://www.youtube.com/watch?v=2I92PFgzDgg",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V183",
       "status": "transcript_unavailable",
-      "transcript_file": null
+      "transcript_file": null,
+      "spreadsheet": "spreadsheets/V183_2I92PFgzDgg_3-Sectors-That-Every-Investor-Should-Focus-On-Right-Now-ft-Sandeep-Tan.xlsx"
     },
     {
       "no": 184,
@@ -1839,9 +1839,9 @@
       "title": "The Only Investment Strategy That Works in 2026",
       "url": "https://www.youtube.com/watch?v=pQ26N-e4JeM",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V184",
       "status": "extracted",
-      "transcript_file": "transcripts/pQ26N-e4JeM.txt"
+      "transcript_file": "transcripts/pQ26N-e4JeM.txt",
+      "spreadsheet": "spreadsheets/V184_pQ26N-e4JeM_The-Only-Investment-Strategy-That-Works-in-2026.xlsx"
     },
     {
       "no": 185,
@@ -1849,9 +1849,9 @@
       "title": "Stock Market CRASH Soon? | What Smart Investors Don't Tell You | Ft. Manish Gunwani @bandhanmutual",
       "url": "https://www.youtube.com/watch?v=hesL5fMyEH0",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V185",
       "status": "extracted",
-      "transcript_file": "transcripts/hesL5fMyEH0.txt"
+      "transcript_file": "transcripts/hesL5fMyEH0.txt",
+      "spreadsheet": "spreadsheets/V185_hesL5fMyEH0_Stock-Market-CRASH-Soon-What-Smart-Investors-Don-t-Tell-You-Ft-Manish-.xlsx"
     },
     {
       "no": 186,
@@ -1859,9 +1859,9 @@
       "title": "How to Win in Stock Market in 2026! | Ft. Vikas Khemani",
       "url": "https://www.youtube.com/watch?v=zY4aA8IVs4s",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V186",
       "status": "extracted",
-      "transcript_file": "transcripts/zY4aA8IVs4s.txt"
+      "transcript_file": "transcripts/zY4aA8IVs4s.txt",
+      "spreadsheet": "spreadsheets/V186_zY4aA8IVs4s_How-to-Win-in-Stock-Market-in-2026-Ft-Vikas-Khemani.xlsx"
     },
     {
       "no": 187,
@@ -1869,9 +1869,9 @@
       "title": "At 29, This Money Rule Changed His Life",
       "url": "https://www.youtube.com/watch?v=RpKxw0HxtBk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V187",
       "status": "extracted",
-      "transcript_file": "transcripts/RpKxw0HxtBk.txt"
+      "transcript_file": "transcripts/RpKxw0HxtBk.txt",
+      "spreadsheet": "spreadsheets/V187_RpKxw0HxtBk_At-29-This-Money-Rule-Changed-His-Life.xlsx"
     },
     {
       "no": 188,
@@ -1879,9 +1879,9 @@
       "title": "He Pays his Bills with Dividends. Here’s How! | Ft. Harsh @goela",
       "url": "https://www.youtube.com/watch?v=9JxFaInycMU",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V188",
       "status": "extracted",
-      "transcript_file": "transcripts/9JxFaInycMU.txt"
+      "transcript_file": "transcripts/9JxFaInycMU.txt",
+      "spreadsheet": "spreadsheets/V188_9JxFaInycMU_He-Pays-his-Bills-with-Dividends-Here-s-How-Ft-Harsh-goela.xlsx"
     },
     {
       "no": 189,
@@ -1889,9 +1889,9 @@
       "title": "How she turned her Salary into Wealth in Crores by 28!",
       "url": "https://www.youtube.com/watch?v=3bNfNjyqBR0",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V189",
       "status": "extracted",
-      "transcript_file": "transcripts/3bNfNjyqBR0.txt"
+      "transcript_file": "transcripts/3bNfNjyqBR0.txt",
+      "spreadsheet": "spreadsheets/V189_3bNfNjyqBR0_How-she-turned-her-Salary-into-Wealth-in-Crores-by-28.xlsx"
     },
     {
       "no": 190,
@@ -1899,9 +1899,9 @@
       "title": "He Made Crores from Scratch With Salary + Investing | Ft. Vishesh Gandhi",
       "url": "https://www.youtube.com/watch?v=A_PhLZ1P9fs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V190",
       "status": "extracted",
-      "transcript_file": "transcripts/A_PhLZ1P9fs.txt"
+      "transcript_file": "transcripts/A_PhLZ1P9fs.txt",
+      "spreadsheet": "spreadsheets/V190_A_PhLZ1P9fs_He-Made-Crores-from-Scratch-With-Salary-Investing-Ft-Vishesh-Gandhi.xlsx"
     },
     {
       "no": 191,
@@ -1909,9 +1909,9 @@
       "title": "What's The BEST Credit Card For Travel And Shopping In 2025 ?",
       "url": "https://www.youtube.com/watch?v=GnWClrSuk9o",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V191",
       "status": "extracted",
-      "transcript_file": "transcripts/GnWClrSuk9o.txt"
+      "transcript_file": "transcripts/GnWClrSuk9o.txt",
+      "spreadsheet": "spreadsheets/V191_GnWClrSuk9o_What-s-The-BEST-Credit-Card-For-Travel-And-Shopping-In-2025.xlsx"
     },
     {
       "no": 192,
@@ -1919,9 +1919,9 @@
       "title": "How to Be Financially Free Early",
       "url": "https://www.youtube.com/watch?v=gPvIxhw6YwA",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V192",
       "status": "extracted",
-      "transcript_file": "transcripts/gPvIxhw6YwA.txt"
+      "transcript_file": "transcripts/gPvIxhw6YwA.txt",
+      "spreadsheet": "spreadsheets/V192_gPvIxhw6YwA_How-to-Be-Financially-Free-Early.xlsx"
     },
     {
       "no": 193,
@@ -1929,9 +1929,9 @@
       "title": "From Paycheck To Passive Income | Quit McKinsey Work Culture | Journey To Financial Independence",
       "url": "https://www.youtube.com/watch?v=_xysNq7Gm4Y",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V193",
       "status": "extracted",
-      "transcript_file": "transcripts/_xysNq7Gm4Y.txt"
+      "transcript_file": "transcripts/_xysNq7Gm4Y.txt",
+      "spreadsheet": "spreadsheets/V193__xysNq7Gm4Y_From-Paycheck-To-Passive-Income-Quit-McKinsey-Work-Culture-Journey-To-.xlsx"
     },
     {
       "no": 194,
@@ -1939,9 +1939,9 @@
       "title": "How He Became Rich Despite Everything Going Wrong",
       "url": "https://www.youtube.com/watch?v=Gg8nccPWKP4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V194",
       "status": "extracted",
-      "transcript_file": "transcripts/Gg8nccPWKP4.txt"
+      "transcript_file": "transcripts/Gg8nccPWKP4.txt",
+      "spreadsheet": "spreadsheets/V194_Gg8nccPWKP4_How-He-Became-Rich-Despite-Everything-Going-Wrong.xlsx"
     },
     {
       "no": 195,
@@ -1949,9 +1949,9 @@
       "title": "5 Funds for 2026 to become Financially Independent",
       "url": "https://www.youtube.com/watch?v=QAdfIME6nh4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V195",
       "status": "extracted",
-      "transcript_file": "transcripts/QAdfIME6nh4.txt"
+      "transcript_file": "transcripts/QAdfIME6nh4.txt",
+      "spreadsheet": "spreadsheets/V195_QAdfIME6nh4_5-Funds-for-2026-to-become-Financially-Independent.xlsx"
     },
     {
       "no": 196,
@@ -1959,9 +1959,9 @@
       "title": "How much Diversification Your Portfolio Actually Needs?| 30 Fund Diversification Logic| Pratik Oswal",
       "url": "https://www.youtube.com/watch?v=fPqOhY1T2B8",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V196",
       "status": "extracted",
-      "transcript_file": "transcripts/fPqOhY1T2B8.txt"
+      "transcript_file": "transcripts/fPqOhY1T2B8.txt",
+      "spreadsheet": "spreadsheets/V196_fPqOhY1T2B8_How-much-Diversification-Your-Portfolio-Actually-Needs-30-Fund-Diversi.xlsx"
     },
     {
       "no": 197,
@@ -1969,9 +1969,9 @@
       "title": "My Net Worth is Rs 5 Crores | Story of a Common Man",
       "url": "https://www.youtube.com/watch?v=0FWAptE7HT8",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V197",
       "status": "extracted",
-      "transcript_file": "transcripts/0FWAptE7HT8.txt"
+      "transcript_file": "transcripts/0FWAptE7HT8.txt",
+      "spreadsheet": "spreadsheets/V197_0FWAptE7HT8_My-Net-Worth-is-Rs-5-Crores-Story-of-a-Common-Man.xlsx"
     },
     {
       "no": 198,
@@ -1979,9 +1979,9 @@
       "title": "Use These Credit Card Hacks for FREE Travel ✈️ Ft. @dugarniraj​",
       "url": "https://www.youtube.com/watch?v=cnNkwtOIZgA",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V198",
       "status": "extracted",
-      "transcript_file": "transcripts/cnNkwtOIZgA.txt"
+      "transcript_file": "transcripts/cnNkwtOIZgA.txt",
+      "spreadsheet": "spreadsheets/V198_cnNkwtOIZgA_Use-These-Credit-Card-Hacks-for-FREE-Travel-Ft-dugarniraj.xlsx"
     },
     {
       "no": 199,
@@ -1989,9 +1989,9 @@
       "title": "H1B Visa Fee Hikes and US Tariffs: Will It Impact Indian IT | Investors Need To Know This",
       "url": "https://www.youtube.com/watch?v=y5inDUZMK3w",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V199",
       "status": "extracted",
-      "transcript_file": "transcripts/y5inDUZMK3w.txt"
+      "transcript_file": "transcripts/y5inDUZMK3w.txt",
+      "spreadsheet": "spreadsheets/V199_y5inDUZMK3w_H1B-Visa-Fee-Hikes-and-US-Tariffs-Will-It-Impact-Indian-IT-Investors-N.xlsx"
     },
     {
       "no": 200,
@@ -1999,9 +1999,9 @@
       "title": "Why Investing 20% of Your Income Early Can Make You Financially Free",
       "url": "https://www.youtube.com/watch?v=9Xa-qlhRAfc",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V200",
       "status": "extracted",
-      "transcript_file": "transcripts/9Xa-qlhRAfc.txt"
+      "transcript_file": "transcripts/9Xa-qlhRAfc.txt",
+      "spreadsheet": "spreadsheets/V200_9Xa-qlhRAfc_Why-Investing-20-of-Your-Income-Early-Can-Make-You-Financially-Free.xlsx"
     },
     {
       "no": 201,
@@ -2009,9 +2009,9 @@
       "title": "Top Sectors To Invest In 2025, Stock Market Crash, War & How To Build Your Net Worth | Ft Amit Jain",
       "url": "https://www.youtube.com/watch?v=zwCqVEGytuY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V201",
       "status": "extracted",
-      "transcript_file": "transcripts/zwCqVEGytuY.txt"
+      "transcript_file": "transcripts/zwCqVEGytuY.txt",
+      "spreadsheet": "spreadsheets/V201_zwCqVEGytuY_Top-Sectors-To-Invest-In-2025-Stock-Market-Crash-War-How-To-Build-Your.xlsx"
     },
     {
       "no": 202,
@@ -2019,9 +2019,9 @@
       "title": "How he Built 8.5 CRORE Net Worth while Travelling the World ✈️",
       "url": "https://www.youtube.com/watch?v=p1_KRMgSjgk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V202",
       "status": "extracted",
-      "transcript_file": "transcripts/p1_KRMgSjgk.txt"
+      "transcript_file": "transcripts/p1_KRMgSjgk.txt",
+      "spreadsheet": "spreadsheets/V202_p1_KRMgSjgk_How-he-Built-8-5-CRORE-Net-Worth-while-Travelling-the-World.xlsx"
     },
     {
       "no": 203,
@@ -2029,9 +2029,9 @@
       "title": "How to manage expenses with Passive Income? | Ft. Feroz DSilva",
       "url": "https://www.youtube.com/watch?v=j0sXY9CzxJI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V203",
       "status": "extracted",
-      "transcript_file": "transcripts/j0sXY9CzxJI.txt"
+      "transcript_file": "transcripts/j0sXY9CzxJI.txt",
+      "spreadsheet": "spreadsheets/V203_j0sXY9CzxJI_How-to-manage-expenses-with-Passive-Income-Ft-Feroz-DSilva.xlsx"
     },
     {
       "no": 204,
@@ -2039,9 +2039,9 @@
       "title": "CASH Won’t Make You RICH! Invest in These 5 ASSETS Instead",
       "url": "https://www.youtube.com/watch?v=_sw5YR4rRS8",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V204",
       "status": "extracted",
-      "transcript_file": "transcripts/_sw5YR4rRS8.txt"
+      "transcript_file": "transcripts/_sw5YR4rRS8.txt",
+      "spreadsheet": "spreadsheets/V204__sw5YR4rRS8_CASH-Won-t-Make-You-RICH-Invest-in-These-5-ASSETS-Instead.xlsx"
     },
     {
       "no": 205,
@@ -2049,9 +2049,9 @@
       "title": "Select MUTUAL FUNDS like Experts in 2025 | Fund Managers follow these STEPS |Ft.@TataMutualFundIndia",
       "url": "https://www.youtube.com/watch?v=PdCcYy56DQk",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V205",
       "status": "extracted",
-      "transcript_file": "transcripts/PdCcYy56DQk.txt"
+      "transcript_file": "transcripts/PdCcYy56DQk.txt",
+      "spreadsheet": "spreadsheets/V205_PdCcYy56DQk_Select-MUTUAL-FUNDS-like-Experts-in-2025-Fund-Managers-follow-these-ST.xlsx"
     },
     {
       "no": 206,
@@ -2059,9 +2059,9 @@
       "title": "5 Money Traps Indian Middle Class Is Falling For! - Learn How To Escape Them",
       "url": "https://www.youtube.com/watch?v=nCzOVfzzoJs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V206",
       "status": "extracted",
-      "transcript_file": "transcripts/nCzOVfzzoJs.txt"
+      "transcript_file": "transcripts/nCzOVfzzoJs.txt",
+      "spreadsheet": "spreadsheets/V206_nCzOVfzzoJs_5-Money-Traps-Indian-Middle-Class-Is-Falling-For-Learn-How-To-Escape-T.xlsx"
     },
     {
       "no": 207,
@@ -2069,9 +2069,9 @@
       "title": "Day in the life of a Mutual Fund Manager at Aditya Birla Sun Life AMC | INDmoney",
       "url": "https://www.youtube.com/watch?v=ftp1N9gd6hY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V207",
       "status": "extracted",
-      "transcript_file": "transcripts/ftp1N9gd6hY.txt"
+      "transcript_file": "transcripts/ftp1N9gd6hY.txt",
+      "spreadsheet": "spreadsheets/V207_ftp1N9gd6hY_Day-in-the-life-of-a-Mutual-Fund-Manager-at-Aditya-Birla-Sun-Life-AMC-.xlsx"
     },
     {
       "no": 208,
@@ -2079,9 +2079,9 @@
       "title": "Earning ₹12 Lakh a Month as a Content Creator – 9 to 5 vs Content Creation  Ft. @SatishKVideos",
       "url": "https://www.youtube.com/watch?v=Zt8AyoRmlZI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V208",
       "status": "extracted",
-      "transcript_file": "transcripts/Zt8AyoRmlZI.txt"
+      "transcript_file": "transcripts/Zt8AyoRmlZI.txt",
+      "spreadsheet": "spreadsheets/V208_Zt8AyoRmlZI_Earning-12-Lakh-a-Month-as-a-Content-Creator-9-to-5-vs-Content-Creatio.xlsx"
     },
     {
       "no": 209,
@@ -2089,9 +2089,9 @@
       "title": "Is GOLD ETF The Right Investment Choice For Beginners? | 2024 Best Time to Invest in GOLD",
       "url": "https://www.youtube.com/watch?v=qm2MlOnBTM8",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V209",
       "status": "extracted",
-      "transcript_file": "transcripts/qm2MlOnBTM8.txt"
+      "transcript_file": "transcripts/qm2MlOnBTM8.txt",
+      "spreadsheet": "spreadsheets/V209_qm2MlOnBTM8_Is-GOLD-ETF-The-Right-Investment-Choice-For-Beginners-2024-Best-Time-t.xlsx"
     },
     {
       "no": 210,
@@ -2099,9 +2099,9 @@
       "title": "Should You Add Private Banks to Your Portfolio? | What Is Factor Investing?@utimutualfunds",
       "url": "https://www.youtube.com/watch?v=FU4Pd661SqY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V210",
       "status": "extracted",
-      "transcript_file": "transcripts/FU4Pd661SqY.txt"
+      "transcript_file": "transcripts/FU4Pd661SqY.txt",
+      "spreadsheet": "spreadsheets/V210_FU4Pd661SqY_Should-You-Add-Private-Banks-to-Your-Portfolio-What-Is-Factor-Investin.xlsx"
     },
     {
       "no": 211,
@@ -2109,9 +2109,9 @@
       "title": "What are ETFs? Explained by a Fund Manager | INDmoney",
       "url": "https://www.youtube.com/watch?v=rW11QEMKwG4",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V211",
       "status": "extracted",
-      "transcript_file": "transcripts/rW11QEMKwG4.txt"
+      "transcript_file": "transcripts/rW11QEMKwG4.txt",
+      "spreadsheet": "spreadsheets/V211_rW11QEMKwG4_What-are-ETFs-Explained-by-a-Fund-Manager-INDmoney.xlsx"
     },
     {
       "no": 212,
@@ -2119,9 +2119,9 @@
       "title": "Did You Add THIS Mutual Fund Theme to Your Portfolio? | Thematic Funds | @AxisMutualFund",
       "url": "https://www.youtube.com/watch?v=Cz_kbFcOG7I",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V212",
       "status": "extracted",
-      "transcript_file": "transcripts/Cz_kbFcOG7I.txt"
+      "transcript_file": "transcripts/Cz_kbFcOG7I.txt",
+      "spreadsheet": "spreadsheets/V212_Cz_kbFcOG7I_Did-You-Add-THIS-Mutual-Fund-Theme-to-Your-Portfolio-Thematic-Funds-Ax.xlsx"
     },
     {
       "no": 213,
@@ -2129,9 +2129,9 @@
       "title": "Here’s What Smart Investors Are Doing in 2025 | Ft. Shaily Gang",
       "url": "https://www.youtube.com/watch?v=gtjmNg2N5Fs",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V213",
       "status": "extracted",
-      "transcript_file": "transcripts/gtjmNg2N5Fs.txt"
+      "transcript_file": "transcripts/gtjmNg2N5Fs.txt",
+      "spreadsheet": "spreadsheets/V213_gtjmNg2N5Fs_Here-s-What-Smart-Investors-Are-Doing-in-2025-Ft-Shaily-Gang.xlsx"
     },
     {
       "no": 214,
@@ -2139,9 +2139,9 @@
       "title": "Building a Startup? Watch This Before You Quit Your Job!",
       "url": "https://www.youtube.com/watch?v=W8HO13BpsUI",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V214",
       "status": "extracted",
-      "transcript_file": "transcripts/W8HO13BpsUI.txt"
+      "transcript_file": "transcripts/W8HO13BpsUI.txt",
+      "spreadsheet": "spreadsheets/V214_W8HO13BpsUI_Building-a-Startup-Watch-This-Before-You-Quit-Your-Job.xlsx"
     },
     {
       "no": 215,
@@ -2149,9 +2149,9 @@
       "title": "[Private / unavailable video]",
       "url": "https://www.youtube.com/watch?v=jxXvguJ0g1g",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V215",
       "status": "private_unavailable",
-      "transcript_file": null
+      "transcript_file": null,
+      "spreadsheet": "spreadsheets/V215_jxXvguJ0g1g_Private-unavailable-video.xlsx"
     },
     {
       "no": 216,
@@ -2159,9 +2159,9 @@
       "title": "[Private / unavailable video]",
       "url": "https://www.youtube.com/watch?v=9Q7coudMYW0",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V216",
       "status": "private_unavailable",
-      "transcript_file": null
+      "transcript_file": null,
+      "spreadsheet": "spreadsheets/V216_9Q7coudMYW0_Private-unavailable-video.xlsx"
     },
     {
       "no": 217,
@@ -2169,9 +2169,9 @@
       "title": "[Private / unavailable video]",
       "url": "https://www.youtube.com/watch?v=StxzTy-PcdY",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V217",
       "status": "private_unavailable",
-      "transcript_file": null
+      "transcript_file": null,
+      "spreadsheet": "spreadsheets/V217_StxzTy-PcdY_Private-unavailable-video.xlsx"
     },
     {
       "no": 218,
@@ -2179,9 +2179,9 @@
       "title": "He Avoids Mutual Funds. Here’s How He Builds Wealth",
       "url": "https://www.youtube.com/watch?v=L6_rFYWP2yA",
       "source": "Net Worth Show with INDmoney",
-      "sheet": "V218",
       "status": "extracted",
-      "transcript_file": "transcripts/L6_rFYWP2yA.txt"
+      "transcript_file": "transcripts/L6_rFYWP2yA.txt",
+      "spreadsheet": "spreadsheets/V218_L6_rFYWP2yA_He-Avoids-Mutual-Funds-Here-s-How-He-Builds-Wealth.xlsx"
     }
   ]
 }
