@@ -47,7 +47,7 @@ spending, investments, and portfolio, rupee by rupee.
 
 Copy this RSS feed URL into Apple Podcasts, Overcast, Pocket Casts, or any podcast app:
 
-`https://navdatascience.github.io/fin-planning-pod/feed.xml`
+`https://raw.githubusercontent.com/navdatascience/fin-planning-pod/main/feed.xml` (GitHub Pages URL https://navdatascience.github.io/fin-planning-pod/feed.xml works once the repo owner enables Pages: Settings → Pages → main, / root)
 
 - `feed.xml` — the podcast RSS feed (served via GitHub Pages); every episode's audio enclosure is its muse.ai link
 - `cover.jpg` — show artwork

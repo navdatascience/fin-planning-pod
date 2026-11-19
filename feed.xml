@@ -8,7 +8,7 @@
     <itunes:author>Fin Planning Pod</itunes:author>
     <itunes:summary>Every day, Mimi and Alex open up one real Indian money story from the Fin Planning Pod video library, rupee by rupee: income, spending, investments, and portfolio, in four to five minutes.</itunes:summary>
     <itunes:category text="Business"/>
-    <itunes:image href="https://navdatascience.github.io/fin-planning-pod/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/navdatascience/fin-planning-pod/main/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Fin Planning Pod Ep 1 — The 82 Lakh Warangal Plan</title>
