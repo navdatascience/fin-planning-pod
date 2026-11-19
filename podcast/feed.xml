@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Fin Planning Pod</title>
+    <link>https://muse.ai/podcasts/feed/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610</link>
+    <description>A daily 4-5 minute podcast opening up one real Indian money story at a time, from the Fin Planning Pod video library: income, spending, investments and portfolio, rupee by rupee.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Nov 2026 21:47:00 -0600</lastBuildDate>
+    <item>
+      <title>Fin Planning Pod Ep 1 — The 82 Lakh Warangal Plan</title>
+      <description>Mimi and Alex open up Jitender's money story from Warangal: 82.8 lakh from salary, freelancing and rent, 1.88 lakh invested every month, and a 2.05 crore portfolio built from a 6,000 rupee first salary.</description>
+      <pubDate>Wed, 18 Nov 2026 21:47:00 -0600</pubDate>
+      <guid isPermaLink="false">fin-planning-pod-ep-1-the-82-lakh-warangal-plan-2026-11-19</guid>
+      <enclosure url="https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-f44e993f-95ed-4d8a-a248-2ebe8dfebe53.mp3" length="2265445" type="audio/mpeg" />
+      <itunes:duration>283</itunes:duration>
+    </item>
+  </channel>
+</rss>
