@@ -38,5 +38,20 @@ Ranges are recorded at the low end with the full range in the sheet's notes. For
 Every week the six sources above are re-checked for new videos. Each new video gets its own new individual spreadsheet in `spreadsheets/` (next V-number), its transcript and extraction are added, and the update is pushed here with the new titles named in chat.
 
 ## Daily podcast — Fin Planning Pod
-A daily 4–5 minute podcast built from this library lives in `podcast/` (episodes, notes, transcripts, feed.xml).
-Ep 1 (2026-11-18): "The 82 Lakh Warangal Plan". See `podcast/README.md`.
+
+A daily 4–5 minute podcast generated from this library, modeled exactly on The Daily AI Drop repo layout.
+Every day, one library video becomes one episode: Mimi and Alex walk through the person's income,
+spending, investments, and portfolio, rupee by rupee.
+
+**Subscribe to the podcast:**
+
+Copy this RSS feed URL into Apple Podcasts, Overcast, Pocket Casts, or any podcast app:
+
+`https://navdatascience.github.io/fin-planning-pod/feed.xml`
+
+- `feed.xml` — the podcast RSS feed (served via GitHub Pages); every episode's audio enclosure is its muse.ai link
+- `cover.jpg` — show artwork
+- `episodes.json` — episode registry
+- `episodes/YYYY-MM-DD/notes.md` — each day's show notes, with the muse.ai listen link and the source video
+
+Episode transcripts (scripts) are kept under `podcast-transcripts/` as `YYYY-MM-DD-ep<nnn>.txt`.

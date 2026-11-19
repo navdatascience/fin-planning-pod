@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Fin Planning Pod</title>
+    <link>https://github.com/navdatascience/fin-planning-pod</link>
+    <description>Every day, Mimi and Alex open up one real Indian money story from the Fin Planning Pod video library, rupee by rupee: income, spending, investments, and portfolio, in four to five minutes.</description>
+    <language>en-us</language>
+    <itunes:author>Fin Planning Pod</itunes:author>
+    <itunes:summary>Every day, Mimi and Alex open up one real Indian money story from the Fin Planning Pod video library, rupee by rupee: income, spending, investments, and portfolio, in four to five minutes.</itunes:summary>
+    <itunes:category text="Business"/>
+    <itunes:image href="https://navdatascience.github.io/fin-planning-pod/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Fin Planning Pod Ep 1 — The 82 Lakh Warangal Plan</title>
+      <description>Jitender from Warangal earns 82.8 lakh rupees from salary, freelancing, and rent, invests 1.88 lakh every month, and built a 2.05 crore portfolio from a 6,000 rupee first salary.</description>
+      <pubDate>Thu, 19 Nov 2026 03:47:00 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-f44e993f-95ed-4d8a-a248-2ebe8dfebe53.mp3" length="2265445" type="audio/mpeg"/>
+      <guid isPermaLink="false">fin-planning-pod-ep-1-the-82-lakh-warangal-plan-2026-11-19</guid>
+      <itunes:duration>283</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
