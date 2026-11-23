@@ -1,13 +1,15 @@
-# Fin Planning Pod Ep 6 — The 1.95 Crore Nomad Plan
+# Fin Planning Pod Ep 7 — The 58 Lakh Tier 2 City Plan
 
-**Listen:** https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-596bcc26-8fdd-44a6-a6f8-66bd47f1b33f.mp3
+**Listen:** https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-33e752b7-f740-4c6f-a8f0-0e6690840580.mp3
 
-**Summary:** Mimi and Alex open up Seth's money story: a 26-year-old digital nomad from Indore whose marketing agency brings in 1.95 crore rupees a year, who invests 7,64,416 rupees every month, and who built a 1.6 crore portfolio while travelling through Asia.
+**Summary:** A software professional in a tier 2 city on a Rs 58 lakh package takes home Rs 2,91,200 a month, sends Rs 40,000 to his parents, pays a Rs 40,000 flat EMI, and still invests Rs 1,96,933 every month — more than everything else combined — building a Rs 73.8 lakh portfolio.
 
-## How I ACTUALLY Spend My 1.95 Crore Income — PerspectiveByICM channel
+## How I ACTUALLY Spend My 58 Lakh Salary in a Tier 2 City — PerspectiveByICM
 
-**Link:** https://www.youtube.com/watch?v=x2Z6SDe2luo
+**Link:** https://www.youtube.com/watch?v=iLx3jLCsmek
 
-**Spreadsheet:** `spreadsheets/V006_x2Z6SDe2luo_How-I-ACTUALLY-Spend-My-1-95-Crore-Income.xlsx`
+**Spreadsheet:** `spreadsheets/V014_iLx3jLCsmek_How-I-ACTUALLY-Spend-My-58-Lakh-Salary-in-a-Tier-2-City.xlsx`
 
-Seth, a 26-year-old digital nomad from Indore and former software engineer, runs a marketing agency serving clients in the United States. The agency brings in Rs 1.95 crore a year; after about Rs 22 lakh of business expenses and about Rs 2.5 lakh of compliance costs, his pre-tax income is about Rs 1.7 crore, tax takes about Rs 42.5 lakh, and his take-home is about Rs 1.27 crore a year. He has no dependants and sponsors a family vacation every year. He spends Rs 1,62,000 a month — rent Rs 35,000 and transport Rs 7,500 on the responsible side, plus dining out Rs 38,500, travel Rs 30,000, fitness Rs 13,000, gadgets Rs 12,500, clothing Rs 5,500, and subscriptions Rs 2,500. He invests Rs 7,64,416 a month: Rs 5,05,333 into direct equities, Rs 1,95,000 into mutual fund SIPs, and Rs 64,083 into gold. His portfolio totals about Rs 1.6 crore, including Rs 97,46,000 in equities, Rs 35,09,000 in mutual funds, Rs 24,59,000 in cash reserves, and Rs 11,53,000 in gold. Lessons: spend on freedom rather than status in your twenties, keep a cash buffer for taxes so investments never have to be sold to pay tax, only buy what you can afford outright, and let good spending decisions matter more than detailed expense tracking.
+His package is Rs 45 lakh base plus variable pay, Salesforce RSUs, and a joining bonus (Rs 58 lakh total). Spending is Rs 1,44,753/month: Rs 40,000 to parents, Rs 40,000 EMI on a North Bangalore flat bought with a Rs 10 lakh down payment, Rs 21,000 studio rent, Rs 5,000 groceries (he cooks himself, no domestic help), and Rs 32,453 of bonus spending. Investments are Rs 1,96,933/month: Rs 80,000 mutual funds (SIP plus dip-buying), Rs 58,333 US equities via vested RSUs, Rs 50,000 emergency/opportunity fund, Rs 5,000 gold. Portfolio: Rs 73.8 lakh (Rs 30 lakh real estate, Rs 28 lakh mutual funds, Rs 6 lakh EPF/PPF/NPS, Rs 5.5 lakh equities). Lessons: save first, keep fixed costs low, support family and invest simultaneously, and keep an opportunity fund for market crashes.
+
+*Voices from this episode: Mimi (female) and Alex (male) — new expressive cast.*
