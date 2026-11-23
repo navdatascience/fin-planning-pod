@@ -1,15 +1,15 @@
-# Fin Planning Pod Ep 7 — The 58 Lakh Tier 2 City Plan
+# Fin Planning Pod Ep 8 — The 79 Lakh Hyderabad Plan
 
-**Listen:** https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-33e752b7-f740-4c6f-a8f0-0e6690840580.mp3
+**Listen:** https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-00e06d7e-db52-42a4-bd92-e5635a76025a.mp3
 
-**Summary:** A software professional in a tier 2 city on a Rs 58 lakh package takes home Rs 2,91,200 a month, sends Rs 40,000 to his parents, pays a Rs 40,000 flat EMI, and still invests Rs 1,96,933 every month — more than everything else combined — building a Rs 73.8 lakh portfolio.
+**Summary:** Aditya Jain, a Hyderabad product manager from Meerut, splits his Rs 3,92,867 monthly take-home almost in half — Rs 1,96,000 spent with intention (including Rs 30,000 a month on travel, a deliberate post-Covid choice) and Rs 1,50,000 invested — building a Rs 1.24 crore portfolio.
 
-## How I ACTUALLY Spend My 58 Lakh Salary in a Tier 2 City — PerspectiveByICM
+## How I ACTUALLY Spend My 79 Lakh Salary in Hyderabad — PerspectiveByICM
 
-**Link:** https://www.youtube.com/watch?v=iLx3jLCsmek
+**Link:** https://www.youtube.com/watch?v=ltKTa2lleq0
 
-**Spreadsheet:** `spreadsheets/V014_iLx3jLCsmek_How-I-ACTUALLY-Spend-My-58-Lakh-Salary-in-a-Tier-2-City.xlsx`
+**Spreadsheet:** `spreadsheets/V010_ltKTa2lleq0_How-I-ACTUALLY-Spend-My-79-Lakh-Salary-in-Hyderabad.xlsx`
 
-His package is Rs 45 lakh base plus variable pay, Salesforce RSUs, and a joining bonus (Rs 58 lakh total). Spending is Rs 1,44,753/month: Rs 40,000 to parents, Rs 40,000 EMI on a North Bangalore flat bought with a Rs 10 lakh down payment, Rs 21,000 studio rent, Rs 5,000 groceries (he cooks himself, no domestic help), and Rs 32,453 of bonus spending. Investments are Rs 1,96,933/month: Rs 80,000 mutual funds (SIP plus dip-buying), Rs 58,333 US equities via vested RSUs, Rs 50,000 emergency/opportunity fund, Rs 5,000 gold. Portfolio: Rs 73.8 lakh (Rs 30 lakh real estate, Rs 28 lakh mutual funds, Rs 6 lakh EPF/PPF/NPS, Rs 5.5 lakh equities). Lessons: save first, keep fixed costs low, support family and invest simultaneously, and keep an opportunity fund for market crashes.
+His package is Rs 68 lakh salary plus Rs 11 lakh variable pay and RSUs (Rs 79 lakh total); monthly tax is Rs 1,70,000. Responsible spending is Rs 1,20,000 (Rs 60,000 rent, Rs 25,000 car EMI) and bonus spending Rs 76,000 (Rs 30,000 travel). Investments are Rs 1,50,000/month: Rs 50,000 SIPs (compounded into a Rs 35 lakh mutual fund corpus), Rs 50,000 direct equities shifting toward US stocks, Rs 25,000 gold, Rs 15,000 EPF/NPS. Portfolio: Rs 1.24 crore, with Rs 8 lakh cash reserves (about two months' salary). He bought his car with Rs 15 lakh down plus a Rs 15 lakh loan on purpose, keeping his own Rs 15 lakh invested, and also spent Rs 15 lakh on a farm. Lessons: small SIPs compound, compare loan cost vs investment returns before paying cash, keep a two-month cash reserve, and raise the experience budget deliberately as income grows.
 
-*Voices from this episode: Mimi (female) and Alex (male) — new expressive cast.*
+*New cast from this episode: Riya (female) and Alex (male), both expressive. Earlier host voice retired at the owner's request.*
