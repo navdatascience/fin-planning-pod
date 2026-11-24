@@ -1,6 +1,17 @@
 [
   {
-    "title": "Fin Planning Pod Ep 8 — The 79 Lakh Hyderabad Plan",
+    "title": "Fin Planning Pod Ep 9 \u2014 The 87 Lakh Ayodhya Plan",
+    "description": "Vishnu Mishra, a 32-year-old freelance software engineer in Ayodhya working for US clients, earns 87 lakh rupees a year, takes home 5.22 lakh a month, invests 1.12 lakh, and built a 4.31 crore portfolio anchored by Ayodhya real estate.",
+    "pub_utc": "2026-11-24T15:51:05+00:00",
+    "mp3_path": "episodes/2026-11-24/episode.mp3",
+    "bytes": 2233957,
+    "duration_secs": 279,
+    "guid": "fin-planning-pod-ep-9-the-87-lakh-ayodhya-plan-2026-11-24",
+    "audio_url": "https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-e7cf1a24-c7df-4c6e-b388-4c9c0f89a916.mp3",
+    "source_video": "https://www.youtube.com/watch?v=gfxFvwFNIXQ"
+  },
+  {
+    "title": "Fin Planning Pod Ep 8 \u2014 The 79 Lakh Hyderabad Plan",
     "description": "Aditya Jain, a Hyderabad product manager from Meerut, splits his 3.93 lakh monthly take-home almost in half: 1.96 lakh spent with intention (including 30,000 a month on travel), 1.5 lakh invested, and a 1.24 crore portfolio.",
     "pub_utc": "2026-11-23T19:51:20+00:00",
     "mp3_path": "episodes/2026-11-23/episode.mp3",
@@ -11,7 +22,7 @@
     "source_video": "https://www.youtube.com/watch?v=ltKTa2lleq0"
   },
   {
-    "title": "Fin Planning Pod Ep 7 — The 58 Lakh Tier 2 City Plan",
+    "title": "Fin Planning Pod Ep 7 \u2014 The 58 Lakh Tier 2 City Plan",
     "description": "A tier 2 city software professional on a 58 lakh package takes home 2.91 lakh a month, sends 40,000 rupees to his parents, and invests 1.97 lakh every month into a 73.8 lakh portfolio.",
     "pub_utc": "2026-11-23T19:31:02+00:00",
     "mp3_path": "episodes/2026-11-23/episode.mp3",
@@ -22,7 +33,7 @@
     "source_video": "https://www.youtube.com/watch?v=iLx3jLCsmek"
   },
   {
-    "title": "Fin Planning Pod Ep 6 — The 1.95 Crore Nomad Plan",
+    "title": "Fin Planning Pod Ep 6 \u2014 The 1.95 Crore Nomad Plan",
     "description": "Seth, a 26-year-old digital nomad from Indore, earns 1.95 crore rupees a year from his marketing agency, invests 7,64,416 rupees every month, and built a 1.6 crore portfolio while travelling through Asia.",
     "pub_utc": "2026-11-23T15:51:08+00:00",
     "mp3_path": "episodes/2026-11-23/episode.mp3",
@@ -33,7 +44,7 @@
     "source_video": "https://www.youtube.com/watch?v=x2Z6SDe2luo"
   },
   {
-    "title": "Fin Planning Pod Ep 5 — The 38 Lakh Maharashtra Plan",
+    "title": "Fin Planning Pod Ep 5 \u2014 The 38 Lakh Maharashtra Plan",
     "description": "A contractual software developer in Maharashtra earns 38 lakh rupees a year, invests 1,00,300 rupees every month through an ETF Lego strategy, and protects his young family with six insurance policies.",
     "pub_utc": "2026-11-22T15:50:40+00:00",
     "mp3_path": "episodes/2026-11-22/episode.mp3",
@@ -44,7 +55,7 @@
     "source_video": "https://www.youtube.com/watch?v=tWWyU_7eAQQ"
   },
   {
-    "title": "Fin Planning Pod Ep 4 — The 93 Lakh Gurgaon Plan",
+    "title": "Fin Planning Pod Ep 4 \u2014 The 93 Lakh Gurgaon Plan",
     "description": "Damas Varsi, a senior manager in software engineering in Gurgaon, earns 93 lakh rupees a year, invests 2,36,000 rupees every month, and built a 9.22 crore net worth after starting at 25,000 rupees a month.",
     "pub_utc": "2026-11-21T15:54:38+00:00",
     "mp3_path": "episodes/2026-11-21/episode.mp3",
@@ -55,7 +66,7 @@
     "source_video": "https://www.youtube.com/watch?v=XQYjyw7RED0"
   },
   {
-    "title": "Fin Planning Pod Ep 3 — The 77 Lakh Bangalore Plan",
+    "title": "Fin Planning Pod Ep 3 \u2014 The 77 Lakh Bangalore Plan",
     "description": "Ganesh Sharma, a software development engineer in Bangalore, earns 77 lakh rupees, invests 2,28,000 rupees every month, and built a 1.005 crore portfolio while spending 80 lakh rupees on family setup costs.",
     "pub_utc": "2026-11-20T15:50:55+00:00",
     "mp3_path": "episodes/2026-11-20/episode.mp3",
@@ -66,7 +77,7 @@
     "source_video": "https://www.youtube.com/watch?v=QGwl3nEi4LQ"
   },
   {
-    "title": "Fin Planning Pod Ep 2 — The 41.6 Lakh Bangalore Plan",
+    "title": "Fin Planning Pod Ep 2 \u2014 The 41.6 Lakh Bangalore Plan",
     "description": "Pavit, a data and AI specialist in Bangalore, earns 41.6 lakh rupees, invests 92,000 rupees every month, and stepped his SIP up from 3,000 rupees in 2018 to 75,000 rupees while building an 80.75 lakh portfolio.",
     "pub_utc": "2026-11-19T15:50:16+00:00",
     "mp3_path": "episodes/2026-11-19/episode.mp3",
@@ -77,7 +88,7 @@
     "source_video": "https://www.youtube.com/watch?v=BfdLa9Z_ft0"
   },
   {
-    "title": "Fin Planning Pod Ep 1 — The 82 Lakh Warangal Plan",
+    "title": "Fin Planning Pod Ep 1 \u2014 The 82 Lakh Warangal Plan",
     "description": "Jitender from Warangal earns 82.8 lakh rupees from salary, freelancing, and rent, invests 1.88 lakh every month, and built a 2.05 crore portfolio from a 6,000 rupee first salary.",
     "pub_utc": "2026-11-19T03:47:00+00:00",
     "mp3_path": "episodes/2026-11-18/episode.mp3",
