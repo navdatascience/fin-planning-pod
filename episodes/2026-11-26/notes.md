@@ -1,0 +1,13 @@
+# Fin Planning Pod Ep 11 — The 1.27 Crore Pune Trader Plan
+
+**Listen:** https://muse.ai/podcasts/media/650408721490907/b701f53b-0e19-4b97-acca-4e857fd47610/ep-c7caef6a-7843-4509-9002-cdc752a39c05.mp3
+
+**Summary:** Sahil Ramitra, a professional futures trader in Pune, earns one crore twenty seven lakh rupees a year and takes home eight lakh eleven thousand rupees a month. He sends five lakh rupees a month to his own family as interest and provident fund funding, invests one lakh twelve thousand five hundred rupees monthly, and has built a twenty five crore rupee portfolio.
+
+## How I ACTUALLY Spend My 1.27 Crore Income in Pune — PerspectiveByICM channel
+
+**Link:** https://www.youtube.com/watch?v=2uBP6efR-DM
+
+**Spreadsheet:** spreadsheets/V011_2uBP6efR-DM_How-I-ACTUALLY-Spend-My-1-27-Crore-Income-in-Pune.xlsx
+
+Sahil's income is trading income, so it is volatile: his tax estimate fell from about fifty lakh rupees in December to about thirty lakh after a March correction, and he pays about two lakh fifty four thousand rupees a month in tax on a monthly income of about ten lakh sixty five thousand rupees. His responsible spending totals six lakh twenty thousand rupees a month with no rent at all: fifty thousand in utilities, thirty five thousand in domestic help, twenty five thousand in health insurance, and five lakh ten thousand in other responsible spending, of which five lakh goes to his wife and parents as interest on borrowings from them (up to about one lakh a month each), taxed in their lower slabs and funding their provident fund and daughter's savings accounts. His bonus spending is sixty five thousand two hundred fifty rupees, led by fifty thousand on travel, bringing total monthly spending to six lakh eighty five thousand two hundred fifty rupees. He invests one lakh twelve thousand five hundred rupees a month — one lakh into gold and twelve thousand five hundred into provident fund and pension accounts — and holds no mutual fund SIPs at all, leaving a monthly surplus of thirteen thousand five hundred rupees. His portfolio totals twenty five crore rupees: twelve crore fifty lakh in real estate, five crore in his futures portfolio, three crore fifty lakh in equities, two crore fifty lakh in mutual funds, close to one crore in provident fund balances, thirty five lakh in gold, ten lakh in fixed deposits, and five lakh in cash. He has also spent six crore on big one-offs, including five crore constructing his own home. The lessons are to plan taxes as a family unit rather than as an individual, maximise the provident fund for every family member, convert volatile trading income into real assets that cushion market risk, and never act smart with regulators or touch unregulated forex and crypto routes from India.
