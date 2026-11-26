@@ -4,7 +4,7 @@ Structured extraction of India wealth-management / financial-planning YouTube vi
 `Financial_Planning_Extracted.xlsx` template format — **one individual spreadsheet per video**.
 
 ## Deliverable: individual spreadsheets
-**`spreadsheets/` — 218 individual .xlsx files**, one per video, named `V<nnn>_<video_id>_<title>.xlsx`.
+**`spreadsheets/` — 219 individual .xlsx files**, one per video, named `V<nnn>_<video_id>_<title>.xlsx`.
 Each file is a single "Financial Plan" sheet in the exact template layout:
 Pre-Tax Income → Post-Tax Monthly Calculation → Responsible Spending → Bonus Spending →
 Monthly Investment Allocation → Savings Spent → Current Portfolio Allocation,
@@ -16,7 +16,7 @@ Each file carries its own YouTube link at the top.
 - `data/extractions.json` — merged structured extraction data behind the spreadsheets
 - `transcripts/<video_id>.txt` — plain-text transcript used for each extraction
 
-## Coverage (2026-11-18, first full run)
+## Coverage (2026-11-18 first full run; updated 2026-11-26)
 | Source | Videos |
 |---|---|
 | PerspectiveByICM channel (@PerspectiveByICM/videos) | 21 |
@@ -24,10 +24,10 @@ Each file carries its own YouTube link at the top.
 | Life Beyond Freedom (PLBM2AYYPgO_Sdli5mTcYxm5Rq0gQFCFwI) | 18 |
 | Side Quest (PLJxWDsYbHwPY) | 6 |
 | Interesting people (PLBM2AYYPgO_Tb-wz90suPEajJY55B65vG) | 48 |
-| Net Worth Show with INDmoney (PLkrXev16srPB3tlGBpIe7mRIIOZmJdyqK) | 110 |
-| **Total listed (unique)** | **218** |
+| Net Worth Show with INDmoney (PLkrXev16srPB3tlGBpIe7mRIIOZmJdyqK) | 111 |
+| **Total listed (unique)** | **219** |
 
-- Transcripts pulled and extracted: **214** (those 214 spreadsheets are fully filled from their transcripts; the 4 below are present as files with status noted)
+- Transcripts pulled and extracted: **215** (those 215 spreadsheets are fully filled from their transcripts; the 4 below are present as files with status noted)
 - Private / unavailable (in INDmoney playlist): 3 — `jxXvguJ0g1g`, `9Q7coudMYW0`, `StxzTy-PcdY`
 - Subtitles disabled: 1 — `2I92PFgzDgg` (Sandeep Tandon episode)
 

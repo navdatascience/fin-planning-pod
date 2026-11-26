@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-18",
-  "total_listed": 218,
-  "extracted": 214,
+  "generated": "2026-11-26",
+  "total_listed": 219,
+  "extracted": 215,
   "videos": [
     {
       "no": 1,
@@ -2182,6 +2182,16 @@
       "status": "extracted",
       "transcript_file": "transcripts/L6_rFYWP2yA.txt",
       "spreadsheet": "spreadsheets/V218_L6_rFYWP2yA_He-Avoids-Mutual-Funds-Here-s-How-He-Builds-Wealth.xlsx"
+    },
+    {
+      "no": 219,
+      "video_id": "Sl2tsNqCGTU",
+      "title": "Can a Small SIP Make You a Crorepati?",
+      "url": "https://www.youtube.com/watch?v=Sl2tsNqCGTU",
+      "source": "Net Worth Show with INDmoney",
+      "status": "extracted",
+      "transcript_file": "transcripts/Sl2tsNqCGTU.txt",
+      "spreadsheet": "spreadsheets/V219_Sl2tsNqCGTU_Can-a-Small-SIP-Make-You-a-Crorepati.xlsx"
     }
   ]
 }
